@@ -14,7 +14,7 @@ publishing
 $ ./tool/deploy.sh
 ```
 
-For reasons I don't understand, the site will sometimes 404 (permanently) after the `gh-pages` branch is updated.
+NB: because the theme is a git submodule, the site will 404 (permanently) when the `gh-pages` branch is first created.
 Running the script again fixes it.
 
 [ruhoh]: http://ruhoh.com/
