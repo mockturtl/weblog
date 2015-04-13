@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>See also:</title>
+    <description>See also:</description>
+    <link/>
+    <pubDate>2015-04-13</pubDate>
+    <item>
+      <title>Compile</title>
+      <link>/weblog/tool/compile.sh</link>
+      <description>#!/bin/sh
+
+bundle exec ruhoh compile
+</description>
+    </item>
+    <item>
+      <title>Deploy</title>
+      <link>/weblog/tool/deploy.sh</link>
+      <description>#!/bin/sh
+
+git submodule update &amp;&amp; \
+#git push origin --delete gh-pages &amp;&amp; \
+bundle exec ruhoh publish github &amp;&amp; \
+git submodule update
+</description>
+    </item>
+    <item>
+      <title>Draft</title>
+      <link>/weblog/tool/draft.sh</link>
+      <description>#!/bin/sh
+
+bundle exec ruhoh posts draft "$@"
+</description>
+    </item>
+    <item>
+      <title>Preview</title>
+      <link>/weblog/tool/preview.sh</link>
+      <description>#!/bin/sh
+
+bundle exec ruhoh server 9292
+</description>
+    </item>
+  </channel>
+</rss>
