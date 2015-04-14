@@ -6,221 +6,228 @@
     <link/>
     <pubDate>2015-04-14</pubDate>
     <item>
-      <title>reinventing the wheel</title>
-      <link>/weblog/posts/2014-06-27-post</link>
-      <pubDate>2014-06-27</pubDate>
+      <title>Curriculum</title>
+      <link>/weblog/posts/2015-04-04-post</link>
+      <pubDate>2015-04-04</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Always trust your curiousity.&lt;/p&gt;
+&lt;p&gt;I use test cases turned in by students against all other students.
+Students don&amp;#39;t seem to care much about developing defensive test cases, but they unleash hell when it comes to sandbagging their classmates.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://gilesbowkett.blogspot.com/2008/10/smalltalk-complaints-and-opportunities.html"&gt;Giles Bowkett&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://matt.might.net/articles/what-cs-majors-should-know/"&gt;Matt Might&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Core values</title>
-      <link>/weblog/posts/2014-06-26-post</link>
-      <pubDate>2014-06-26</pubDate>
+      <title>iddqd</title>
+      <link>/weblog/posts/2015-04-01-post2</link>
+      <pubDate>2015-04-01</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;If you don&#x2019;t actively fight for simplicity in software, complexity will win, and it will suck.&lt;/p&gt;
+&lt;p&gt;Teaching my older son lisp (Racket). Working on a Pokemon battle simulator. &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://blog.andyet.com/2014/06/25/introducing-ampersand-js/"&gt;Henrik Jorgeteg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/ID_AA_Carmack/status/569688211158511616/photo/1"&gt;John Carmack&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>"Hating Java in 2014"</title>
-      <link>/weblog/posts/2014-06-20-post</link>
-      <pubDate>2014-06-20</pubDate>
+      <title>Foolery</title>
+      <link>/weblog/posts/2015-04-01-post</link>
+      <pubDate>2015-04-01</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;If your project isn&amp;#39;t big enough to account for time to make sure you are linking to exactly the libraries, versions, etc... that you need, it&amp;#39;s not right for Java.&lt;/p&gt;
+&lt;p&gt;The more you have CPUs the higher you scale, to the point that software execution should complete before you start writing that software (assuming you have around -1024 CPUs).&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;(&lt;a href="https://www.tbray.org/ongoing/When/201x/2014/06/20/Hating-Java-in-2014"&gt;comments&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(&lt;a href="https://lkml.org/lkml/2015/3/31/994"&gt;lkml&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Fortune favors the bold</title>
-      <link>/weblog/posts/2014-06-13-post2</link>
-      <pubDate>2014-06-13</pubDate>
-      <description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/48kP_Ssg2eY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Scott Meyers, &lt;a href="https://youtu.be/48kP_Ssg2eY"&gt;&lt;em&gt;The Last Thing D Needs&lt;/em&gt;&lt;/a&gt;, DConf 2014, Menlo Park, California&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>"There is no shelf."</title>
-      <link>/weblog/posts/2014-06-13-post</link>
-      <pubDate>2014-06-13</pubDate>
+      <title>Innovation tokens</title>
+      <link>/weblog/posts/2015-03-30-post</link>
+      <pubDate>2015-03-30</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;I want to argue that even the ontological &lt;em&gt;ideal&lt;/em&gt; is a mistake. Even using theoretical perfection as a measure of practical success leads to misapplication of resources.&lt;/p&gt;
+&lt;p&gt;It is basically always the case that the long-term costs of keeping a system working reliably vastly exceed any inconveniences you encounter while building it. &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Clay Shirky, &lt;a href="http://www.shirky.com/writings/ontology_overrated.html?goback=.gde_1838701_member_179729766"&gt;&lt;em&gt;Ontology is Overrated&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://mcfunley.com/choose-boring-technology"&gt;Dan McKinley&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>That's a big Twinkie.</title>
-      <link>/weblog/posts/2014-06-11-post</link>
-      <pubDate>2014-06-11</pubDate>
+      <title>Forward</title>
+      <link>/weblog/posts/2015-03-28-post</link>
+      <pubDate>2015-03-28</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Looking at the dependency graph for, say, the &lt;code&gt;rails&lt;/code&gt; package will make your eyes bleed. I tried it here, and GraphViz needed a PNG image with 7653&#xD7;10003 pixels to draw it.&lt;/p&gt;
+&lt;p&gt;1,251 classes have been replaced with Microsoft&amp;#39;s open sourced ones&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://softwarelivre.org/terceiro/blog/an-introduction-to-the-debian-continuous-integration-project"&gt;Antonio Terceiro&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mobile.twitter.com/migueldeicaza/status/581068613542649856"&gt;Miguel de Icaza&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Craft</title>
-      <link>/weblog/posts/2014-06-06-post</link>
-      <pubDate>2014-06-06</pubDate>
-      <description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/buF540VBwAE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Always look beyond and above yourself.  Always try to improve yourself.  Always strive to elevate your craft.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Yoshikazu Ono, &lt;a href="https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi"&gt;&lt;em&gt;Jiro Dreams of Sushi&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Standards</title>
-      <link>/weblog/posts/2014-06-05-post</link>
-      <pubDate>2014-06-05</pubDate>
+      <title>Value proposition</title>
+      <link>/weblog/posts/2015-03-21-post</link>
+      <pubDate>2015-03-21</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;In Europe, there&amp;#39;s a standard for everything. They once standardized cucumbers&lt;/p&gt;
+&lt;p&gt;At this point, a reasonable person might think the language hates us.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="https://groups.google.com/a/dartlang.org/d/msg/misc/QB28XzcwmVU/HYoOdLeMEsgJ"&gt;Alex Tatumizer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/"&gt;Bob Nystrom&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Concurrency is everyone's problem</title>
-      <link>/weblog/posts/2014-06-03-post</link>
-      <pubDate>2014-06-03</pubDate>
+      <title>Flexibility</title>
+      <link>/weblog/posts/2015-03-04-post</link>
+      <pubDate>2015-03-04</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;It is &lt;em&gt;the&lt;/em&gt; modern programming problem. Nothing is more important.&lt;/p&gt;
+&lt;p&gt;Design is, as always, the art of finding compromises.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;(&lt;a href="https://news.ycombinator.com/item?id=7842746"&gt;comments&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blogs.msdn.com/b/ericlippert/archive/2009/05/04/the-stack-is-an-implementation-detail-part-two.aspx"&gt;Eric Lippert&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Compromise</title>
-      <link>/weblog/posts/2014-05-30-post</link>
-      <pubDate>2014-05-30</pubDate>
+      <title>"The solid, slow-moving target"</title>
+      <link>/weblog/posts/2015-03-02-post</link>
+      <pubDate>2015-03-02</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;duplication is far cheaper than the wrong abstraction&lt;/p&gt;
+&lt;p&gt;The way that you do stability in software, like this idea that we need a very slow-moving waterfall process -- it&amp;#39;s antiquated.  It&amp;#39;s an accident of history that it ever worked that way.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Sandi Metz, &lt;a href="https://www.youtube.com/watch?v=x1wnI0AxpEU"&gt;&lt;em&gt;All the Little Things&lt;/em&gt;&lt;/a&gt;, Ruby on Ales 2014, Bend, Oregon &lt;/p&gt;
-
-&lt;p&gt;(&lt;a href="https://speakerdeck.com/skmetz/all-the-little-things-rubyonales"&gt;slides&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://devchat.tv/js-jabber/147-jsj-io-js-with-isaac-schleuter-and-mikeal-rogers"&gt;Isaac Schlueter&lt;/a&gt;, Javascript Jabber #147&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>"The Rise and Fall of Personal Computing"</title>
-      <link>/weblog/posts/2014-05-23-post</link>
-      <pubDate>2014-05-23</pubDate>
+      <title>Quality-bound</title>
+      <link>/weblog/posts/2015-02-21-post</link>
+      <pubDate>2015-02-21</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Sometimes extremism is a better point of view than conservatism.&lt;/p&gt;
+&lt;p&gt;There is no Moore&#x2019;s law working your favour!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://www.asymco.com/2012/01/17/the-rise-and-fall-of-personal-computing/"&gt;Horace Dediu&lt;/a&gt;, via &lt;a href="http://www.wirfs-brock.com/allen/posts/490"&gt;Allen Wirfs-Brock&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.sencha.com/blog/5-myths-about-mobile-web-performance#33640"&gt;Jim Trainor&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Overheard [4]</title>
-      <link>/weblog/posts/2014-05-19-post</link>
-      <pubDate>2014-05-19</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://github.com/ericf/yui3-gallery/pull/21"&gt;https://github.com/ericf/yui3-gallery/pull/21&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Insight</title>
-      <link>/weblog/posts/2014-05-15-post</link>
-      <pubDate>2014-05-15</pubDate>
+      <title>Unlinked</title>
+      <link>/weblog/posts/2015-02-20-post</link>
+      <pubDate>2015-02-20</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;the lack of attention span that makes our eyes glaze over when we read swaths of procedural code looking for the one thing we actually care about is the same thing that prevents us from tolerating long-form exposition of approaches to help us deal with the problem.&lt;/p&gt;
+&lt;p&gt;Today, 1 person noticed.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="https://gist.github.com/dhh/4849a20d2ba89b34b201#comment-1228704"&gt;Ernie Miller&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(&lt;a href="https://twitter.com/JayCuthrell/status/551254076164288513"&gt;twitter&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>"X rating"</title>
-      <link>/weblog/posts/2014-04-22-post</link>
-      <pubDate>2014-04-22</pubDate>
+      <title>"Schlep blindness"</title>
+      <link>/weblog/posts/2015-02-17-post</link>
+      <pubDate>2015-02-17</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Any effort spent describing what methods to use on what URIs of interest should be entirely defined within the scope of the processing rules for a media type&lt;/p&gt;
+&lt;p&gt;Instead of asking &amp;quot;what problem should I solve?&amp;quot; ask &amp;quot;what problem do I wish someone else would solve for me?&amp;quot; &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven"&gt;Roy Fielding&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://paulgraham.com/schlep.html"&gt;Paul Graham&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Boundaries</title>
-      <link>/weblog/posts/2014-04-17-post</link>
-      <pubDate>2014-04-17</pubDate>
+      <title>Understatement</title>
+      <link>/weblog/posts/2015-02-05-post</link>
+      <pubDate>2015-02-05</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;I&#x2019;ve got a real problem with formal education in today&#x2019;s world, and I&#x2019;m sad to say that when it does matter, it&#x2019;s about the piece of paper. Schools are no longer the institutions that push the boundaries of what is possible (they can no longer keep up)... that&#x2019;s going to happen at your workplace&lt;/p&gt;
+&lt;p&gt;Microsoft was notified on Oct 13, 2014.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://brandonhays.com/blog/2014/04/05/letter-to-an-aspiring-developer/"&gt;Brandon Hays&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://seclists.org/fulldisclosure/2015/Feb/19"&gt;http://seclists.org/fulldisclosure/2015/Feb/19&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>The scientific method</title>
-      <link>/weblog/posts/2014-04-02-post</link>
-      <pubDate>2014-04-02</pubDate>
+      <title>Overheard</title>
+      <link>/weblog/posts/2015-01-28-post</link>
+      <pubDate>2015-01-28</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Look, the &lt;em&gt;goal&lt;/em&gt; is to prove I&amp;#39;m wrong. That means I win. I&amp;#39;ve proved I was stupid about something so that I can move on to being stupid about something more interesting.&lt;/p&gt;
+&lt;p&gt;Ceci n&amp;#39;est pas une type&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Danielle Sucher, &lt;a href="http://devchat.tv/ruby-rogues/150-rr-the-debugging-mindset-with-danielle-sucher"&gt;&lt;em&gt;The Debugging Mindset&lt;/em&gt;&lt;/a&gt;, Ruby Rogues #150&lt;/p&gt;
+&lt;p&gt;Scott Wlaschin, &lt;a href="http://www.slideshare.net/mobile/ScottWlaschin/fp-patterns-ndc-london2014#36"&gt;&lt;em&gt;Functional Design Patterns&lt;/em&gt;&lt;/a&gt;, NDC London 2014&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="https://vimeo.com/113588389"&gt;video&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Oculus VR</title>
-      <link>/weblog/posts/2014-03-28-post2</link>
-      <pubDate>2014-03-28</pubDate>
+      <title>Basic correctness</title>
+      <link>/weblog/posts/2015-01-22-post</link>
+      <pubDate>2015-01-22</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Whew! They&amp;#39;re blaming Neal Stephenson.&lt;/p&gt;
+&lt;p&gt;if we drive the cost of a defect down to zero, then it doesn&amp;#39;t matter how many mistakes we make.  In fact, we can experiment more and make more mistakes.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="https://twitter.com/GreatDismal/status/449650461881008128"&gt;William Gibson&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;J.B. Rainsberger, &lt;a href="http://www.infoq.com/presentations/integration-tests-scam"&gt;&lt;em&gt;Integration Tests Are a Scam&lt;/em&gt;&lt;/a&gt;, Agile2009, Chicago&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Success</title>
-      <link>/weblog/posts/2014-03-28-post</link>
-      <pubDate>2014-03-28</pubDate>
+      <title>Magic</title>
+      <link>/weblog/posts/2015-01-21-post</link>
+      <pubDate>2015-01-21</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;SHIP IT&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re one step away from carrying a wand around.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;(&lt;a href="https://twitter.com/bloerwald/status/448415935926255618/photo/1"&gt;comments&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://nitch.cc/podcast/episode-143-tons-of-punt"&gt;Jonathan Stark&lt;/a&gt;, Nitch #143&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="https://www.kickstarter.com/projects/1761670738/ring-shortcut-everything"&gt;Kickstarter&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Wetware as a Service</title>
-      <link>/weblog/posts/2014-03-18-post</link>
-      <pubDate>2014-03-18</pubDate>
+      <title>Decorum</title>
+      <link>/weblog/posts/2015-01-19-post</link>
+      <pubDate>2015-01-19</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;A lot of applications require straight up manual effort... This is what has stimulated some chunk of the SaaS industry.  And what&amp;#39;s really ironic is that what they&amp;#39;re providing is not software.&lt;/p&gt;
+&lt;p&gt;&#x201C;I&#x2019;m sorry, Ma&#x2019;am, I have a thing against snakes, so let me get someone else to assist you,&#x201D; he said, as if he were telling the host at a dinner party, &#x201C;No dessert for me, thank you.&#x201D;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://www.infoq.com/presentations/go-circuit-runtime"&gt;Petar Maymounkov&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(&lt;a href="http://www.newyorker.com/magazine/2014/10/20/pets-allowed"&gt;New Yorker&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Good clients</title>
-      <link>/weblog/posts/2014-03-11-post</link>
-      <pubDate>2014-03-11</pubDate>
+      <title>Not again</title>
+      <link>/weblog/posts/2015-01-16-post</link>
+      <pubDate>2015-01-16</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;If you find a good client, you treat him or her like a combination of the Pope, the Queen, and the Dalai Lama&lt;/p&gt;
+&lt;p&gt;Ran steam. It deleted everything on system owned by user.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://www.modernperlbooks.com/mt/2014/02/the-mid-career-crisis-of-the-perl-programmer.html"&gt;chromatic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/ValveSoftware/steam-for-linux/issues/3671"&gt;https://github.com/ValveSoftware/steam-for-linux/issues/3671&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Deadpan</title>
+      <link>/weblog/posts/2015-01-03-post</link>
+      <pubDate>2015-01-03</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This is the same language that has &lt;code&gt;notwithstanding&lt;/code&gt; as an (ignored) keyword&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href="https://news.ycombinator.com/item?id=8817457"&gt;comments&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Aspiration</title>
+      <link>/weblog/posts/2015-01-02-post</link>
+      <pubDate>2015-01-02</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;LuaJIT with the JIT enabled is much faster than all of the other languages benchmarked, including Wren, because Mike Pall is a robot from the future.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://munificent.github.io/wren/performance.html"&gt;Bob Nystrom&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Session Initiation Protocol</title>
+      <link>/weblog/posts/2015-01-01-post</link>
+      <pubDate>2015-01-01</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;But hey, one of them is now the CTO of the FCC, so writing terrible specs must be a good career move.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://news.ycombinator.com/item?id=8825507"&gt;Michael Giagnocavo&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
