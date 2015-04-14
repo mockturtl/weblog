@@ -6,6 +6,74 @@
     <link/>
     <pubDate>2015-04-14</pubDate>
     <item>
+      <title>Oculus VR</title>
+      <link>/weblog/posts/2014-03-28-post2</link>
+      <pubDate>2014-03-28</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Whew! They&amp;#39;re blaming Neal Stephenson.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/GreatDismal/status/449650461881008128"&gt;William Gibson&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Success</title>
+      <link>/weblog/posts/2014-03-28-post</link>
+      <pubDate>2014-03-28</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;SHIP IT&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href="https://twitter.com/bloerwald/status/448415935926255618/photo/1"&gt;comments&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Wetware as a Service</title>
+      <link>/weblog/posts/2014-03-18-post</link>
+      <pubDate>2014-03-18</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;A lot of applications require straight up manual effort... This is what has stimulated some chunk of the SaaS industry.  And what&amp;#39;s really ironic is that what they&amp;#39;re providing is not software.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://www.infoq.com/presentations/go-circuit-runtime"&gt;Petar Maymounkov&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Good clients</title>
+      <link>/weblog/posts/2014-03-11-post</link>
+      <pubDate>2014-03-11</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;If you find a good client, you treat him or her like a combination of the Pope, the Queen, and the Dalai Lama
+&lt;br&gt;
+You can&amp;#39;t look at a CV and tell whether I&amp;#39;m the kind of person who will go above and beyond the task of transcribing what a software architect dictates that the project manager has teased out of what the director of sales has forced the enterprise sales representative to admit that he promised to the customer for the next release.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href="http://www.modernperlbooks.com/mt/2014/02/the-mid-career-crisis-of-the-perl-programmer.html"&gt;chromatic&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>"Culture *is* process"</title>
+      <link>/weblog/posts/2014-03-08-post</link>
+      <pubDate>2014-03-08</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The coolest thing about a waterfall process is that it allows me personally to succeed, to demonstrate skill and competence, while the end result of the process is a dismal failure.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://www.agileproductdesign.com/blog/agile_is_culture_not_process.html"&gt;Jeff Patton&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Essentials</title>
+      <link>/weblog/posts/2014-03-07-post</link>
+      <pubDate>2014-03-07</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Moving code into concerns is just geography&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href="https://news.ycombinator.com/item?id=7338495"&gt;comments&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>"Vortex of mediocrity"</title>
       <link>/weblog/posts/2014-02-27-post</link>
       <pubDate>2014-02-27</pubDate>
@@ -154,88 +222,6 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href="http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html"&gt;Robert Martin&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Paradigms</title>
-      <link>/weblog/posts/2014-01-22-post</link>
-      <pubDate>2014-01-22</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;I started wondering about what object-oriented programming was, and I thought, well, Erlang wasn&amp;#39;t object-oriented; it was a functional programming language.  And then my thesis supervisor, Seif Haridi said, &amp;quot;But you&amp;#39;re wrong.  Erlang&amp;#39;s extremely object-oriented.  The thing is, the object-oriented languages aren&amp;#39;t object-oriented.&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://www.infoq.com/interviews/johnson-armstrong-oop"&gt;Joe Armstrong&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;OOP = messaging + isolation + polymorphism + late binding and NOT classes + methods (which is just code organisation)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(&lt;a href="https://twitter.com/joeerl/status/420304646184267776"&gt;twitter&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Freedom of choice</title>
-      <link>/weblog/posts/2014-01-12-post</link>
-      <pubDate>2014-01-12</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;I believe freedom is equal to freedom to choose, freedom of choice.  Choice means decision.  Decision making is the source of freedom.  So be a decision-maker.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Yukihiro Matsumoto, &lt;a href="https://www.youtube.com/watch?v=6vdum5aXew8"&gt;&lt;em&gt;Changing Your World&lt;/em&gt;&lt;/a&gt;, Barcelona Ruby Conference 2013&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Stop laughing.</title>
-      <link>/weblog/posts/2014-01-11-post</link>
-      <pubDate>2014-01-11</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Bing now supports https&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(&lt;a href="https://news.ycombinator.com/item?id=7043536"&gt;HN&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>"Test infected" (2003)</title>
-      <link>/weblog/posts/2014-01-10-post2</link>
-      <pubDate>2014-01-10</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Will we all be programming in a dynamically typed language in 2010?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://www.artima.com/forums/flat.jsp?forum=106&amp;amp;thread=4639&amp;amp;start=0&amp;amp;msRange=15"&gt;Robert Martin&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Methods without Contracts (2003)</title>
-      <link>/weblog/posts/2014-01-10-post</link>
-      <pubDate>2014-01-10</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;The flexibility to change the implementation without changing the interface works well only for certain things.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://www.artima.com/intv/pycontract.html"&gt;Guido van Rossum&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>"Career-shatteringly bad mistake"</title>
-      <link>/weblog/posts/2014-01-07-post</link>
-      <pubDate>2014-01-07</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;What I really wanted to do at the time was use Lisp, actually, but I didn&amp;#39;t say it. And [Alan] goes, &amp;quot;Well!&amp;quot; He says, &amp;quot;Well... how would you feel if there was a team out there who said they were gonna use... LISP!&amp;quot; 
-&lt;br&gt;&lt;br&gt;
-He&amp;#39;d pulled his ace out, and he brandished it at me, and I went: &amp;quot;That&amp;#39;s what I wanted to use.&amp;quot; And he goes, &amp;quot;Oh.&amp;quot;  And that was the end of the conversation. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Steve Yegge, &lt;a href="http://youtu.be/tz-Bb-D6teE?t=18m31s"&gt;&lt;em&gt;Dynamic Languages Strike Back&lt;/em&gt;&lt;/a&gt;, Stanford University Computer Systems Colloquium, 2008&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Emacs is the world&amp;#39;s last Lisp Machine. All the rest of them are at garage sales. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(Q&amp;amp;A)&lt;/p&gt;
 </description>
     </item>
   </channel>

@@ -10,6 +10,15 @@
       <link>/weblog/archive</link>
       <description>
   &lt;h2&gt;2014&lt;/h2&gt;
+    &lt;h3&gt;March&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2014-03-28&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-03-28-post2"&gt;Oculus VR&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-03-28&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-03-28-post"&gt;Success&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-03-18&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-03-18-post"&gt;Wetware as a Service&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-03-11&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-03-11-post"&gt;Good clients&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-03-08&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-03-08-post"&gt;&amp;quot;Culture *is* process&amp;quot;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-03-07&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-03-07-post"&gt;Essentials&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
     &lt;h3&gt;February&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;span&gt;2014-02-27&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-02-27-post"&gt;&amp;quot;Vortex of mediocrity&amp;quot;&lt;/a&gt;&lt;/li&gt;
@@ -172,75 +181,80 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-02-27-post"&gt;&amp;quot;Vortex of mediocrity&amp;quot;&lt;/a&gt; &lt;span class="date"&gt;2014-02-27&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-03-28-post2"&gt;Oculus VR&lt;/a&gt; &lt;span class="date"&gt;2014-03-28&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;When working with legacy code, giving up means neither replacing nor rescuing the legacy code, but simply living with it, learning to adjust my expectations to its quirky behavior, figuring out how to get it mostly out of my way, but with one considerable downside: when push comes to shove, I can&#x2019;t change it, so I have to waste time and effort working around it, rather than making it better. &lt;/p&gt;
+&lt;p&gt;Whew! They're blaming Neal Stephenson.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://www.jbrains.ca/permalink/brewing-espresso-and-legacy-code"&gt;J.B. Rainsberger&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/GreatDismal/status/449650461881008128"&gt;William Gibson&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-02-27-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-03-28-post2" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-02-22-post"&gt;goto fail&lt;/a&gt; &lt;span class="date"&gt;2014-02-22&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;p&gt;&lt;a href="http://www.theregister.co.uk/2014/02/21/apple_patches_ios_ssl_vulnerability/"&gt;http://www.theregister.co.uk/2014/02/21/apple_patches_ios_ssl_vulnerability/&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-02-22-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-02-20-post"&gt;RIP&lt;/a&gt; &lt;span class="date"&gt;2014-02-20&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;p&gt;Thanks for everything, Jim.&lt;/p&gt;
-
-&lt;iframe width="640" height="390" src="https://www.youtube.com/embed/vKrr7aXUc1E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://github.com/jimweirich/wyriki/commit/d28fac7f18aeacb00d8ad3460a0a5a901617c2d4"&gt;github&lt;/a&gt;
-&lt;a href="https://twitter.com/search?q=jimweirich"&gt;twitter&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-02-20-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-02-19-post"&gt;Hobbies&lt;/a&gt; &lt;span class="date"&gt;2014-02-19&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-03-28-post"&gt;Success&lt;/a&gt; &lt;span class="date"&gt;2014-03-28&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A geek must possess just two things: knowledge and enthusiasm.&lt;/p&gt;
+&lt;p&gt;SHIP IT&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://hypercritical.co/2014/01/14/the-road-to-geekdom"&gt;John Siracusa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(&lt;a href="https://twitter.com/bloerwald/status/448415935926255618/photo/1"&gt;comments&lt;/a&gt;)&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-02-19-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-03-28-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-02-18-post2"&gt;Data injection vulnerability in ActiveRecord&lt;/a&gt; &lt;span class="date"&gt;2014-02-18&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-03-18-post"&gt;Wetware as a Service&lt;/a&gt; &lt;span class="date"&gt;2014-03-18&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;There is a data injection vulnerability in Active Record.  Specially crafted strings can be used to save data in PostgreSQL array columns that may not be intended. &lt;/p&gt;
+&lt;p&gt;A lot of applications require straight up manual effort... This is what has stimulated some chunk of the SaaS industry.  And what's really ironic is that what they're providing is not software.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="https://groups.google.com/forum/m/#!topic/rubyonrails-security/Wu96YkTUR6s"&gt;Aaron Patterson&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.infoq.com/presentations/go-circuit-runtime"&gt;Petar Maymounkov&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-02-18-post2" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-03-18-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-03-11-post"&gt;Good clients&lt;/a&gt; &lt;span class="date"&gt;2014-03-11&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you find a good client, you treat him or her like a combination of the Pope, the Queen, and the Dalai Lama
+&lt;br&gt;
+You can't look at a CV and tell whether I'm the kind of person who will go above and beyond the task of transcribing what a software architect dictates that the project manager has teased out of what the director of sales has forced the enterprise sales representative to admit that he promised to the customer for the next release.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href="http://www.modernperlbooks.com/mt/2014/02/the-mid-career-crisis-of-the-perl-programmer.html"&gt;chromatic&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/2014-03-11-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-03-08-post"&gt;&amp;quot;Culture *is* process&amp;quot;&lt;/a&gt; &lt;span class="date"&gt;2014-03-08&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The coolest thing about a waterfall process is that it allows me personally to succeed, to demonstrate skill and competence, while the end result of the process is a dismal failure.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://www.agileproductdesign.com/blog/agile_is_culture_not_process.html"&gt;Jeff Patton&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/2014-03-08-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -263,6 +277,8 @@
       &lt;li&gt;&lt;a href="/weblog/posts/index/15"&gt;15&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href="/weblog/posts/index/16"&gt;16&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href="/weblog/posts/index/17"&gt;17&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/weblog/posts/index/18"&gt;18&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/weblog/posts/index/19"&gt;19&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/div&gt;
 </description>
@@ -302,10 +318,10 @@
     &lt;a href="/weblog/tags#unix-ref"&gt;unix &lt;span&gt;9&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;16&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;20&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;15&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#win-ref"&gt;win &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
@@ -393,14 +409,18 @@
     &lt;li&gt;&lt;a href="/weblog/posts/economics-of-bad-ideas"&gt;Economics of bad ideas&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="culture shock-ref"&gt;culture shock&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/tradeoffs"&gt;Tradeoffs.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-03-08-post"&gt;&amp;quot;Culture *is* process&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/the-most-dangerous-code-in-the-world"&gt;&amp;quot;The Most Dangerous Code in the World&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-10-post2"&gt;&amp;quot;Test infected&amp;quot; (2003)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-27-post"&gt;&amp;quot;Vortex of mediocrity&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-09-post"&gt;&amp;quot;The Billion Dollar Mistake&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-11-15-post"&gt;Standards&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/folk-process"&gt;Folk process&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-03-11-post"&gt;Good clients&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/uml-is-a-job-smell"&gt;UML is a job smell&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/i-wish-i-could-never-link"&gt;&amp;quot;I wish I could never link against a closed library ever again.&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-03-18-post"&gt;Wetware as a Service&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-03-07-post"&gt;Essentials&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-25-post"&gt;Professionalism&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-24-post"&gt;Labor theory of value&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-19-post"&gt;Hobbies&lt;/a&gt;&lt;/li&gt;
@@ -411,6 +431,7 @@
   &lt;h3 id="muses-ref"&gt;muses&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/tradeoffs"&gt;Tradeoffs.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/in-broad-daylight"&gt;In broad daylight&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-03-28-post2"&gt;Oculus VR&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/new-systemd-module-libc"&gt;New systemd module: libc&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/salt-of-the-earth-1974"&gt;Salt of the Earth (1974)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard-1"&gt;Overheard[1]&lt;/a&gt;&lt;/li&gt;
@@ -418,6 +439,7 @@
     &lt;li&gt;&lt;a href="/weblog/posts/overheard"&gt;Overheard&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/pipes"&gt;Pipes&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/peak-usage"&gt;Peak usage&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-03-28-post"&gt;Success&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-06-post"&gt;Culture&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/jazz-impressions-of-japan-1964"&gt;Jazz Impressions of Japan (1964)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard-2"&gt;Overheard[2]&lt;/a&gt;&lt;/li&gt;
