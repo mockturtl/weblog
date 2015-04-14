@@ -6,6 +6,135 @@
     <link/>
     <pubDate>2015-04-14</pubDate>
     <item>
+      <title>"Vortex of mediocrity"</title>
+      <link>/weblog/posts/2014-02-27-post</link>
+      <pubDate>2014-02-27</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;When working with legacy code, giving up means neither replacing nor rescuing the legacy code, but simply living with it, learning to adjust my expectations to its quirky behavior, figuring out how to get it mostly out of my way, but with one considerable downside: when push comes to shove, I can&#x2019;t change it, so I have to waste time and effort working around it, rather than making it better. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://www.jbrains.ca/permalink/brewing-espresso-and-legacy-code"&gt;J.B. Rainsberger&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>goto fail</title>
+      <link>/weblog/posts/2014-02-22-post</link>
+      <pubDate>2014-02-22</pubDate>
+      <description>&lt;p&gt;&lt;a href="http://www.theregister.co.uk/2014/02/21/apple_patches_ios_ssl_vulnerability/"&gt;http://www.theregister.co.uk/2014/02/21/apple_patches_ios_ssl_vulnerability/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>RIP</title>
+      <link>/weblog/posts/2014-02-20-post</link>
+      <pubDate>2014-02-20</pubDate>
+      <description>&lt;p&gt;Thanks for everything, Jim.&lt;/p&gt;
+
+&lt;iframe width="640" height="390" src="https://www.youtube.com/embed/vKrr7aXUc1E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/jimweirich/wyriki/commit/d28fac7f18aeacb00d8ad3460a0a5a901617c2d4"&gt;github&lt;/a&gt;
+&lt;a href="https://twitter.com/search?q=jimweirich"&gt;twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Hobbies</title>
+      <link>/weblog/posts/2014-02-19-post</link>
+      <pubDate>2014-02-19</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;A geek must possess just two things: knowledge and enthusiasm.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://hypercritical.co/2014/01/14/the-road-to-geekdom"&gt;John Siracusa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Data injection vulnerability in ActiveRecord</title>
+      <link>/weblog/posts/2014-02-18-post2</link>
+      <pubDate>2014-02-18</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;There is a data injection vulnerability in Active Record.  Specially crafted strings can be used to save data in PostgreSQL array columns that may not be intended. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://groups.google.com/forum/m/#!topic/rubyonrails-security/Wu96YkTUR6s"&gt;Aaron Patterson&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>"Bizarre Shadowy Paper-Based Payment System Being Rolled Out Worldwide"</title>
+      <link>/weblog/posts/2014-02-18-post</link>
+      <pubDate>2014-02-18</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;you can&amp;#39;t snort cocaine through a bitcoin&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href="http://ledracapital.com/blog/2014/2/17/bitcoin-series-19-bizarre-shadowy-paper-based-payment-system-being-rolled-out-worldwide"&gt;comments&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>WNPP</title>
+      <link>/weblog/posts/2014-02-15-post</link>
+      <pubDate>2014-02-15</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The &lt;code&gt;how-can-i-help&lt;/code&gt; program hooks into APT to list opportunities for contributions to Debian&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://wiki.debian.org/how-can-i-help"&gt;https://wiki.debian.org/how-can-i-help&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>"The Billion Dollar Mistake"</title>
+      <link>/weblog/posts/2014-02-09-post</link>
+      <pubDate>2014-02-09</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tony Hoare, &lt;a href="http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare"&gt;&lt;em&gt;Null References: The Billion Dollar Mistake&lt;/em&gt;&lt;/a&gt;, QCon London 2009&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Priorities</title>
+      <link>/weblog/posts/2014-02-06-post2</link>
+      <pubDate>2014-02-06</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The first step is to know what the hell we&amp;#39;re doing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://learnyousomeerlang.com/designing-a-concurrent-application#understanding-the-problem"&gt;Fred H&#xE9;bert&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>private static final sealed cursed</title>
+      <link>/weblog/posts/2014-02-06-post3</link>
+      <pubDate>2014-02-06</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;You don&#x2019;t really hate global state until you&#x2019;ve had to &lt;code&gt;grep&lt;/code&gt; a million lines of code at three in the morning trying to find the one errant call that&#x2019;s setting a static variable to the wrong value.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bob Nystrom, &lt;a href="http://gameprogrammingpatterns.com/singleton.html"&gt;&lt;em&gt;Game Programming Patterns&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>/weblog/posts/2014-02-06-post</link>
+      <pubDate>2014-02-06</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The only problem with Microsoft is they just have no taste.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mOgOP_aqqtg"&gt;Steve Jobs&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>"Big changes to Erlang"</title>
+      <link>/weblog/posts/2014-02-01-post</link>
+      <pubDate>2014-02-01</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Records are dead - long live maps !&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://joearms.github.io/2014/02/01/big-changes-to-erlang.html"&gt;Joe Armstrong&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Professionalism</title>
       <link>/weblog/posts/2014-01-25-post</link>
       <pubDate>2014-01-25</pubDate>
@@ -107,152 +236,6 @@ He&amp;#39;d pulled his ace out, and he brandished it at me, and I went: &amp;qu
 &lt;/blockquote&gt;
 
 &lt;p&gt;(Q&amp;amp;A)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Why aren't people using Python 3?</title>
-      <link>/weblog/posts/2013-12-30-post</link>
-      <pubDate>2013-12-30</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;I believe that the problem lies with the university incentive structure...
-In the presence of these twin mandates &#x2014; spend no money, and break none of the things 
-&#x2014; CentOS apparently begins to look attractive.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(&lt;a href="http://alexgaynor.net/2013/dec/30/about-python-3/"&gt;comments&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>"Vigorous writing is concise"</title>
-      <link>/weblog/posts/2013-12-21-post</link>
-      <pubDate>2013-12-21</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;This requires... that every word tell.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;Elements of Style&lt;/em&gt;, William Strunk Jr., Harcourt, Brace &amp;amp; Howe, 1920.  &lt;/p&gt;
-
-&lt;p&gt;Cited by Ernie Miller, &lt;a href="https://www.youtube.com/watch?v=OB-xFC8AN_s"&gt;&lt;em&gt;That&amp;#39;s Not Very Ruby of You&lt;/em&gt;&lt;/a&gt;, RubyConf 2013.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>"Pomp and ceremony"</title>
-      <link>/weblog/posts/2013-12-17-post2</link>
-      <pubDate>2013-12-17</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;The Java ecosystem warps your brain into a mode of thinking where modularity patterns like DI and decoration are like ancient gods&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://devblog.avdi.org/2010/02/09/everything-you-love-about-java-is-everything-i-love-about-good-design/"&gt;Avdi Grimm&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Orientation</title>
-      <link>/weblog/posts/2013-12-17-post</link>
-      <pubDate>2013-12-17</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Your domain model is not in your classes, it&amp;#39;s in the communication patterns between the objects at runtime.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Steve Freeman and Nat Pryce, &lt;em&gt;Growing Object-Oriented Software, Guided by Tests&lt;/em&gt;, Addison Wesley, 2009.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Procedural code gets information then makes decisions.  Object-oriented code tells objects to do things.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Alec Sharp, &lt;em&gt;Smalltalk by Example: The Developer&amp;#39;s Guide&lt;/em&gt;, McGraw-Hill, 1997.&lt;/p&gt;
-
-&lt;p&gt;Cited by Matt Wynne, &lt;a href="https://www.youtube.com/watch?v=CGN4RFkhH2M"&gt;&lt;em&gt;Hexagonal Rails&lt;/em&gt;&lt;/a&gt;, GoRuCo 2012&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>EMCAScript</title>
-      <link>/weblog/posts/2013-12-03-post</link>
-      <pubDate>2013-12-03</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;EMCAScript sounds like a skin disease&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Brendan Eich, &lt;a href="http://www.infoq.com/presentations/web-evolution-trends"&gt;&lt;em&gt;The Present and Future of the Web Platform&lt;/em&gt;&lt;/a&gt;, QCon San Francisco 2013&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Standards</title>
-      <link>/weblog/posts/2013-11-15-post</link>
-      <pubDate>2013-11-15</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;PNaCl/PPAPI&amp;#39;s goals are clearly much broader than that, otherwise Google would be limiting the attack surface by whitelisting specific plugins that matter and not encouraging people to build new ones.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://robert.ocallahan.org/2013/05/blink-pnacl-and-standards.html?showComment=1371078173158#c4398251343842345316"&gt;Robert O&amp;#39;Callahan&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href="https://news.ycombinator.com/item?id=6723827"&gt;HN&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Scheme</title>
-      <link>/weblog/posts/2013-11-13-post</link>
-      <pubDate>2013-11-13</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;This &#x201C;JS = Scheme&#x201D; meme was hugely legimitizing to a horde of programmers feeling unsure of themselves in the face of grizzly C programmers who allocated their own damn memory, probably right after building their own computer out of rocks and twigs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/"&gt;Bob Nystrom&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Pride</title>
-      <link>/weblog/posts/2013-10-06-post</link>
-      <pubDate>2013-10-06</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Always be proud of what you&amp;#39;ve done -- just because we&amp;#39;ve gone to the moon doesn&amp;#39;t mean you shouldn&amp;#39;t be proud of making your Arduino blink the LED finally.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(&lt;a href="https://news.ycombinator.com/item?id=6505188"&gt;comments&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>In broad daylight</title>
-      <link>/weblog/posts/in-broad-daylight</link>
-      <pubDate>2013-09-08</pubDate>
-      <description>&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/d15MBSwHoa4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Recorded Christmas Eve, 1941. &lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    <item>
-      <title>Android AOSP maintainer quits</title>
-      <link>/weblog/posts/android-aosp-maintainer-quits</link>
-      <pubDate>2013-08-07</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;We need Linus Torvalds to give Qualcomm the finger.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(&lt;a href="https://news.ycombinator.com/item?id=6174514"&gt;comments&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>rapidee</title>
-      <link>/weblog/posts/rapidee</link>
-      <pubDate>2013-08-05</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Not being able to resize the Windows Environment Variables dialog is a travesty. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="https://twitter.com/ID_AA_Carmack/status/364397952317390848"&gt;John Carmack&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Peak usage</title>
-      <link>/weblog/posts/peak-usage</link>
-      <pubDate>2013-07-26</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;If you look at someone like Amazon, their peak usage is orders of magnitude higher than their regular idle usage. For example, just the selling side of Amazon, late November, December, the one month before Christmas, they do as much business as they do the rest of the year.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://www.h-online.com/open/features/Interview-Linus-Torvalds-I-don-t-read-code-any-more-1748462.html"&gt;Linus Torvalds&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
