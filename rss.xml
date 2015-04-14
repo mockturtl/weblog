@@ -10,6 +10,18 @@
       <link>/weblog/archive</link>
       <description>
   &lt;h2&gt;2014&lt;/h2&gt;
+    &lt;h3&gt;June&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2014-06-27&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-06-27-post"&gt;reinventing the wheel&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-06-26&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-06-26-post"&gt;Core values&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-06-20&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-06-20-post"&gt;&amp;quot;Hating Java in 2014&amp;quot;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-06-13&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-06-13-post2"&gt;Fortune favors the bold&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-06-13&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-06-13-post"&gt;&amp;quot;There is no shelf.&amp;quot;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-06-11&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-06-11-post"&gt;That&amp;#39;s a big Twinkie.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-06-06&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-06-06-post"&gt;Craft&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-06-05&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-06-05-post"&gt;Standards&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-06-03&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-06-03-post"&gt;Concurrency is everyone&amp;#39;s problem&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
     &lt;h3&gt;May&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;span&gt;2014-05-30&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-05-30-post"&gt;Compromise&lt;/a&gt;&lt;/li&gt;
@@ -194,76 +206,76 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-05-30-post"&gt;Compromise&lt;/a&gt; &lt;span class="date"&gt;2014-05-30&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-06-27-post"&gt;reinventing the wheel&lt;/a&gt; &lt;span class="date"&gt;2014-06-27&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;duplication is far cheaper than the wrong abstraction&lt;/p&gt;
+&lt;p&gt;Always trust your curiousity.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Sandi Metz, &lt;a href="https://www.youtube.com/watch?v=x1wnI0AxpEU"&gt;&lt;em&gt;All the Little Things&lt;/em&gt;&lt;/a&gt;, Ruby on Ales, Bend, Oregon, 2014&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href="https://speakerdeck.com/skmetz/all-the-little-things-rubyonales"&gt;slides&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://gilesbowkett.blogspot.com/2008/10/smalltalk-complaints-and-opportunities.html"&gt;Giles Bowkett&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-05-30-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-06-27-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-05-23-post"&gt;&amp;quot;The Rise and Fall of Personal Computing&amp;quot;&lt;/a&gt; &lt;span class="date"&gt;2014-05-23&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-06-26-post"&gt;Core values&lt;/a&gt; &lt;span class="date"&gt;2014-06-26&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Sometimes extremism is a better point of view than conservatism.&lt;/p&gt;
+&lt;p&gt;If you don&#x2019;t actively fight for simplicity in software, complexity will win, and it will suck.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://www.asymco.com/2012/01/17/the-rise-and-fall-of-personal-computing/"&gt;Horace Dediu&lt;/a&gt;, via &lt;a href="http://www.wirfs-brock.com/allen/posts/490"&gt;Allen Wirfs-Brock&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.andyet.com/2014/06/25/introducing-ampersand-js/"&gt;Henrik Jorgeteg&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-05-23-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-06-26-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-05-19-post"&gt;Overheard [4]&lt;/a&gt; &lt;span class="date"&gt;2014-05-19&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;p&gt;&lt;a href="https://github.com/ericf/yui3-gallery/pull/21"&gt;https://github.com/ericf/yui3-gallery/pull/21&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-05-19-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-05-15-post"&gt;Insight&lt;/a&gt; &lt;span class="date"&gt;2014-05-15&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-06-20-post"&gt;&amp;quot;Hating Java in 2014&amp;quot;&lt;/a&gt; &lt;span class="date"&gt;2014-06-20&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;the lack of attention span that makes our eyes glaze over when we read swaths of procedural code looking for the one thing we actually care about is the same thing that prevents us from tolerating long-form exposition of approaches to help us deal with the problem.&lt;/p&gt;
+&lt;p&gt;If your project isn't big enough to account for time to make sure you are linking to exactly the libraries, versions, etc... that you need, it's not right for Java.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="https://gist.github.com/dhh/4849a20d2ba89b34b201#comment-1228704"&gt;Ernie Miller&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(&lt;a href="https://www.tbray.org/ongoing/When/201x/2014/06/20/Hating-Java-in-2014"&gt;comments&lt;/a&gt;)&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-05-15-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-06-20-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-04-22-post"&gt;&amp;quot;X rating&amp;quot;&lt;/a&gt; &lt;span class="date"&gt;2014-04-22&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-06-13-post2"&gt;Fortune favors the bold&lt;/a&gt; &lt;span class="date"&gt;2014-06-13&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Any effort spent describing what methods to use on what URIs of interest should be entirely defined within the scope of the processing rules for a media type&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/48kP_Ssg2eY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven"&gt;Roy Fielding&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Scott Meyers, &lt;a href="https://youtu.be/48kP_Ssg2eY"&gt;&lt;em&gt;The Last Thing D Needs&lt;/em&gt;&lt;/a&gt;, DConf 2014, Menlo Park, California&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-04-22-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-06-13-post2" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-06-13-post"&gt;&amp;quot;There is no shelf.&amp;quot;&lt;/a&gt; &lt;span class="date"&gt;2014-06-13&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I want to argue that even the ontological &lt;em&gt;ideal&lt;/em&gt; is a mistake. Even using theoretical perfection as a measure of practical success leads to misapplication of resources.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Clay Shirky, &lt;a href="http://www.shirky.com/writings/ontology_overrated.html?goback=.gde_1838701_member_179729766"&gt;&lt;em&gt;Ontology is Overrated&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/2014-06-13-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -289,6 +301,8 @@
       &lt;li&gt;&lt;a href="/weblog/posts/index/18"&gt;18&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href="/weblog/posts/index/19"&gt;19&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href="/weblog/posts/index/20"&gt;20&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/weblog/posts/index/21"&gt;21&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/weblog/posts/index/22"&gt;22&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/div&gt;
 </description>
@@ -322,7 +336,7 @@
       <description>
 &lt;ul class="tag_box inline"&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;25&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;27&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#apt-ref"&gt;apt &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
@@ -331,13 +345,16 @@
     &lt;a href="/weblog/tags#unix-ref"&gt;unix &lt;span&gt;9&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;16&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;18&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#win-ref"&gt;win &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#gotcha-ref"&gt;gotcha &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/weblog/tags#go-ref"&gt;go &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#php-ref"&gt;php &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -355,25 +372,22 @@
     &lt;a href="/weblog/tags#dart-ref"&gt;dart &lt;span&gt;7&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#rb-ref"&gt;rb &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#rb-ref"&gt;rb &lt;span&gt;12&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#mvn-ref"&gt;mvn &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#vim-ref"&gt;vim &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#java-ref"&gt;java &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#go-ref"&gt;go &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#vim-ref"&gt;vim &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#android-ref"&gt;android &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#js-ref"&gt;js &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="/weblog/tags#java-ref"&gt;java &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#erl-ref"&gt;erl &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
@@ -391,7 +405,7 @@
     &lt;a href="/weblog/tags#git-ref"&gt;git &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#deb-ref"&gt;deb &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#deb-ref"&gt;deb &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#oo-ref"&gt;oo &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -405,6 +419,9 @@
   &lt;li&gt;
     &lt;a href="/weblog/tags#c-ref"&gt;c &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/weblog/tags#c++-ref"&gt;c++ &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;h3 id="culture shock-ref"&gt;culture shock&lt;/h3&gt;
@@ -412,6 +429,7 @@
     &lt;li&gt;&lt;a href="/weblog/posts/tradeoffs"&gt;Tradeoffs.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-03-08-post"&gt;&amp;quot;Culture *is* process&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/the-most-dangerous-code-in-the-world"&gt;&amp;quot;The Most Dangerous Code in the World&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-26-post"&gt;Core values&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-10-post2"&gt;&amp;quot;Test infected&amp;quot; (2003)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-27-post"&gt;&amp;quot;Vortex of mediocrity&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-09-post"&gt;&amp;quot;The Billion Dollar Mistake&amp;quot;&lt;/a&gt;&lt;/li&gt;
@@ -432,6 +450,7 @@
     &lt;li&gt;&lt;a href="/weblog/posts/2014-05-23-post"&gt;&amp;quot;The Rise and Fall of Personal Computing&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/free-to-play"&gt;Free to play&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-05-30-post"&gt;Compromise&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-13-post"&gt;&amp;quot;There is no shelf.&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-11-post"&gt;Stop laughing.&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="apt-ref"&gt;apt&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/tradeoffs"&gt;Tradeoffs.&lt;/a&gt;&lt;/li&gt;
@@ -450,7 +469,9 @@
     &lt;li&gt;&lt;a href="/weblog/posts/tradeoffs"&gt;Tradeoffs.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/in-broad-daylight"&gt;In broad daylight&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-03-28-post2"&gt;Oculus VR&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-06-post"&gt;Craft&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/new-systemd-module-libc"&gt;New systemd module: libc&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-05-post"&gt;Standards&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/salt-of-the-earth-1974"&gt;Salt of the Earth (1974)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard-1"&gt;Overheard[1]&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard-3"&gt;Overheard[3]&lt;/a&gt;&lt;/li&gt;
@@ -468,6 +489,9 @@
     &lt;li&gt;&lt;a href="/weblog/posts/rapidee"&gt;rapidee&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="gotcha-ref"&gt;gotcha&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/cygcheck"&gt;cygcheck&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="go-ref"&gt;go&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-03-post"&gt;Concurrency is everyone&amp;#39;s problem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/idiom"&gt;Esmerelda&amp;#39;s Imagination&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="php-ref"&gt;php&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/the-most-dangerous-code-in-the-world"&gt;&amp;quot;The Most Dangerous Code in the World&amp;quot;&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="diff -&amp;gt; apply-ref"&gt;diff -&amp;gt; apply&lt;/h3&gt;
@@ -492,6 +516,7 @@
     &lt;li&gt;&lt;a href="/weblog/posts/involve-designers-from-the-beginning"&gt;&amp;quot;Involve designers from the beginning&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/architecture"&gt;Architecture&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/not-necessarily-that-simple"&gt;&amp;quot;Not necessarily that simple&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-27-post"&gt;reinventing the wheel&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-12-post"&gt;Freedom of choice&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/features-are-too-big-to-fail"&gt;&amp;quot;Features are too big to fail&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-18-post2"&gt;Data injection vulnerability in ActiveRecord&lt;/a&gt;&lt;/li&gt;
@@ -500,10 +525,15 @@
     &lt;li&gt;&lt;a href="/weblog/posts/dependency-injection-is-not-a-virtue"&gt;&amp;quot;Dependency injection is not a virtue&amp;quot;&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="mvn-ref"&gt;mvn&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/love-your-package-manager"&gt;Love your package manager&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="java-ref"&gt;java&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-20-post"&gt;&amp;quot;Hating Java in 2014&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/further-affiant-sayeth-naught"&gt;&amp;quot;Further affiant sayeth naught.&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2013-12-17-post2"&gt;&amp;quot;Pomp and ceremony&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/java-exploit-7u10"&gt;Java exploit: 7u10&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/dependency-injection-is-not-a-virtue"&gt;&amp;quot;Dependency injection is not a virtue&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/overheard-2"&gt;Overheard[2]&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="vim-ref"&gt;vim&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/what"&gt;What?&lt;/a&gt;&lt;/li&gt;
-  &lt;h3 id="go-ref"&gt;go&lt;/h3&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/idiom"&gt;Esmerelda&amp;#39;s Imagination&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="android-ref"&gt;android&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/android-aosp-maintainer-quits"&gt;Android AOSP maintainer quits&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/android-studio"&gt;Android Studio&lt;/a&gt;&lt;/li&gt;
@@ -514,12 +544,6 @@
     &lt;li&gt;&lt;a href="/weblog/posts/one-mind-at-a-time"&gt;One mind at a time&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/premise-check"&gt;Premise check&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/objects-are-not-hash-tables"&gt;Objects are not hash tables&lt;/a&gt;&lt;/li&gt;
-  &lt;h3 id="java-ref"&gt;java&lt;/h3&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/further-affiant-sayeth-naught"&gt;&amp;quot;Further affiant sayeth naught.&amp;quot;&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2013-12-17-post2"&gt;&amp;quot;Pomp and ceremony&amp;quot;&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/java-exploit-7u10"&gt;Java exploit: 7u10&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/dependency-injection-is-not-a-virtue"&gt;&amp;quot;Dependency injection is not a virtue&amp;quot;&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/overheard-2"&gt;Overheard[2]&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="erl-ref"&gt;erl&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-06-post2"&gt;Priorities&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-01-post"&gt;&amp;quot;Big changes to Erlang&amp;quot;&lt;/a&gt;&lt;/li&gt;
@@ -537,6 +561,7 @@
     &lt;li&gt;&lt;a href="/weblog/posts/git-s-killer-feature"&gt;&amp;quot;Git&#x2019;s Killer Feature&amp;quot;&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="deb-ref"&gt;deb&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-15-post"&gt;WNPP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-11-post"&gt;That&amp;#39;s a big Twinkie.&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="oo-ref"&gt;oo&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-22-post"&gt;Paradigms&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="games-ref"&gt;games&lt;/h3&gt;
@@ -547,6 +572,8 @@
     &lt;li&gt;&lt;a href="/weblog/posts/objects-are-not-hash-tables"&gt;Objects are not hash tables&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="c-ref"&gt;c&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/big-balls-of-mud"&gt;Big balls of mud&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="c++-ref"&gt;c++&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-13-post2"&gt;Fortune favors the bold&lt;/a&gt;&lt;/li&gt;
  
 </description>
     </item>
