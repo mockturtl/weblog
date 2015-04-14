@@ -4,7 +4,7 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-13</pubDate>
+    <pubDate>2015-04-14</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
@@ -12,6 +12,13 @@
   &lt;h2&gt;2014&lt;/h2&gt;
     &lt;h3&gt;January&lt;/h3&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2014-01-25&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-01-25-post"&gt;Professionalism&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-01-24&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-01-24-post"&gt;Labor theory of value&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-01-22&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-01-22-post"&gt;Paradigms&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-01-12&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-01-12-post"&gt;Freedom of choice&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-01-11&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-01-11-post"&gt;Stop laughing.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-01-10&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-01-10-post2"&gt;&amp;quot;Test infected&amp;quot; (2003)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2014-01-10&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-01-10-post"&gt;Methods without Contracts (2003)&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2014-01-07&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2014-01-07-post"&gt;&amp;quot;Career-shatteringly bad mistake&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;h2&gt;2013&lt;/h2&gt;
@@ -150,102 +157,84 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-01-07-post"&gt;&amp;quot;Career-shatteringly bad mistake&amp;quot;&lt;/a&gt; &lt;span class="date"&gt;2014-01-07&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-01-25-post"&gt;Professionalism&lt;/a&gt; &lt;span class="date"&gt;2014-01-25&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;"Let's say they want to do something in a programming language that's not one of the supported Google languages. You know, like what if they wanted to use, you know, Haskell?"&lt;/p&gt;
-
-&lt;p&gt;What I really wanted to do at the time was use Lisp, actually, but I didn't say it. And [Alan] goes, "Well!" He says, "Well... how would you feel if there was a team out there who said they were gonna use... LISP!" &lt;/p&gt;
-
-&lt;p&gt;He'd pulled his ace out, and he brandished it at me, and I went: "that's what I wanted to use." And he goes, "Oh."  And that was the end of the conversation. &lt;/p&gt;
+&lt;p&gt;Professionalism is the willingness to refuse to obey orders that do harm to others.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Steve Yegge, "&lt;a href="http://youtu.be/tz-Bb-D6teE?t=18m31s"&gt;Dynamic Languages Strike Back&lt;/a&gt;," Stanford University Computer Systems Colloquium, 2008&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Emacs is the world's last Lisp Machine. All the rest of them are at garage sales. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(Q&amp;amp;A)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.8thlight.com/uncle-bob/2013/11/12/Healthcare-gov.html"&gt;Robert Martin&lt;/a&gt;, via &lt;a href="http://podcasts.thoughtbot.com/giantrobots/79"&gt;Ben Orenstein&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2014-01-07-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-01-25-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2013-12-30-post"&gt;Why aren&amp;#39;t people using Python 3?&lt;/a&gt; &lt;span class="date"&gt;2013-12-30&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-01-24-post"&gt;Labor theory of value&lt;/a&gt; &lt;span class="date"&gt;2014-01-24&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I believe that the problem lies with the university incentive structure...
-In the presence of these twin mandates &#x2014; spend no money, and break none of the things 
-&#x2014; CentOS apparently begins to look attractive.&lt;/p&gt;
+&lt;p&gt;Effort equates neither to speed nor direction.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;(&lt;a href="http://alexgaynor.net/2013/dec/30/about-python-3/"&gt;comments&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html"&gt;Robert Martin&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2013-12-30-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-01-24-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2013-12-21-post"&gt;&amp;quot;Vigorous writing is concise&amp;quot;&lt;/a&gt; &lt;span class="date"&gt;2013-12-21&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-01-22-post"&gt;Paradigms&lt;/a&gt; &lt;span class="date"&gt;2014-01-22&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This requires... that every word tell.&lt;/p&gt;
+&lt;p&gt;I started wondering about what object-oriented programming was, and I thought, well, Erlang wasn't object-oriented; it was a functional programming language.  And then my thesis supervisor, Seif Haridi said, "But you're wrong.  Erlang's extremely object-oriented.  The thing is, the object-oriented languages aren't object-oriented."&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;Elements of Style&lt;/em&gt;, William Strunk Jr., Harcourt, Brace &amp;amp; Howe, 1920.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.infoq.com/interviews/johnson-armstrong-oop"&gt;Joe Armstrong&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Cited in &lt;a href="https://www.youtube.com/watch?v=OB-xFC8AN_s"&gt;&lt;em&gt;That's Not Very Ruby of You&lt;/em&gt;&lt;/a&gt;, Ernie Miller, RubyConf 2013.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;OOP = messaging + isolation + polymorphism + late binding and NOT classes + methods (which is just code organisation)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href="https://twitter.com/joeerl/status/420304646184267776"&gt;twitter&lt;/a&gt;)&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2013-12-21-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-01-22-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2013-12-17-post2"&gt;&amp;quot;Pomp and ceremony&amp;quot;&lt;/a&gt; &lt;span class="date"&gt;2013-12-17&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-01-12-post"&gt;Freedom of choice&lt;/a&gt; &lt;span class="date"&gt;2014-01-12&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The Java ecosystem warps your brain into a mode of thinking where modularity patterns like DI and decoration are like ancient gods&lt;/p&gt;
+&lt;p&gt;I believe freedom is equal to freedom to choose, freedom of choice.  Choice means decision.  Decision making is the source of freedom.  So be a decision-maker.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://devblog.avdi.org/2010/02/09/everything-you-love-about-java-is-everything-i-love-about-good-design/"&gt;Avdi Grimm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yukihiro Matsumoto, &lt;a href="https://www.youtube.com/watch?v=6vdum5aXew8"&gt;&lt;em&gt;Changing Your World&lt;/em&gt;&lt;/a&gt;, Barcelona Ruby Conference 2013&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2013-12-17-post2" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-01-12-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2013-12-17-post"&gt;Orientation&lt;/a&gt; &lt;span class="date"&gt;2013-12-17&lt;/span&gt;&lt;/h3&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2014-01-11-post"&gt;Stop laughing.&lt;/a&gt; &lt;span class="date"&gt;2014-01-11&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Your domain model is not in your classes, it's in the communication patterns between the objects at runtime.&lt;/p&gt;
+&lt;p&gt;Bing now supports https&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Steve Freeman and Nat Pryce, &lt;em&gt;Growing Object-Oriented Software, Guided by Tests&lt;/em&gt;, Addison Wesley, 2009.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Procedural code gets information then makes decisions.  Object-oriented code tells objects to do things.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Alec Sharp, &lt;em&gt;Smalltalk by Example: The Developer's Guide&lt;/em&gt;, McGraw-Hill, 1997.&lt;/p&gt;
-
-&lt;p&gt;Cited in &lt;a href="https://www.youtube.com/watch?v=CGN4RFkhH2M"&gt;&lt;em&gt;Hexagonal Rails&lt;/em&gt;&lt;/a&gt;, Matt Wynne, GoRuCo 2012&lt;/p&gt;
+&lt;p&gt;(&lt;a href="https://news.ycombinator.com/item?id=7043536"&gt;HN&lt;/a&gt;)&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2013-12-17-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+    &lt;a href="/weblog/posts/2014-01-11-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -265,6 +254,7 @@ In the presence of these twin mandates &#x2014; spend no money, and break none o
       &lt;li&gt;&lt;a href="/weblog/posts/index/12"&gt;12&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href="/weblog/posts/index/13"&gt;13&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href="/weblog/posts/index/14"&gt;14&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/weblog/posts/index/15"&gt;15&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/div&gt;
 </description>
@@ -304,7 +294,7 @@ In the presence of these twin mandates &#x2014; spend no money, and break none o
     &lt;a href="/weblog/tags#unix-ref"&gt;unix &lt;span&gt;9&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;9&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
@@ -322,7 +312,7 @@ In the presence of these twin mandates &#x2014; spend no money, and break none o
     &lt;a href="/weblog/tags#diff -&amp;gt; apply-ref"&gt;diff -&amp;gt; apply &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#py-ref"&gt;py &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#py-ref"&gt;py &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#lisp-ref"&gt;lisp &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
@@ -331,7 +321,7 @@ In the presence of these twin mandates &#x2014; spend no money, and break none o
     &lt;a href="/weblog/tags#dart-ref"&gt;dart &lt;span&gt;7&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#rb-ref"&gt;rb &lt;span&gt;8&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#rb-ref"&gt;rb &lt;span&gt;9&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#mvn-ref"&gt;mvn &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -361,13 +351,19 @@ In the presence of these twin mandates &#x2014; spend no money, and break none o
     &lt;a href="/weblog/tags#git-ref"&gt;git &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;a href="/weblog/tags#oo-ref"&gt;oo &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;a href="/weblog/tags#smalltalk-ref"&gt;smalltalk &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#c-ref"&gt;c &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#games-ref"&gt;games &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#games-ref"&gt;games &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/weblog/tags#erl-ref"&gt;erl &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -387,13 +383,17 @@ In the presence of these twin mandates &#x2014; spend no money, and break none o
   &lt;h3 id="culture shock-ref"&gt;culture shock&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/tradeoffs"&gt;Tradeoffs.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/the-most-dangerous-code-in-the-world"&gt;&amp;quot;The Most Dangerous Code in the World&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-01-10-post2"&gt;&amp;quot;Test infected&amp;quot; (2003)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-11-15-post"&gt;Standards&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/folk-process"&gt;Folk process&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/uml-is-a-job-smell"&gt;UML is a job smell&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/i-wish-i-could-never-link"&gt;&amp;quot;I wish I could never link against a closed library ever again.&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-01-25-post"&gt;Professionalism&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-01-24-post"&gt;Labor theory of value&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/why-ruby"&gt;Why ruby?&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/big-balls-of-mud"&gt;Big balls of mud&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/free-to-play"&gt;Free to play&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-01-11-post"&gt;Stop laughing.&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="muses-ref"&gt;muses&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/tradeoffs"&gt;Tradeoffs.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/in-broad-daylight"&gt;In broad daylight&lt;/a&gt;&lt;/li&gt;
@@ -417,6 +417,7 @@ In the presence of these twin mandates &#x2014; spend no money, and break none o
     &lt;li&gt;&lt;a href="/weblog/posts/the-most-dangerous-code-in-the-world"&gt;&amp;quot;The Most Dangerous Code in the World&amp;quot;&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="py-ref"&gt;py&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-12-30-post"&gt;Why aren&amp;#39;t people using Python 3?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-01-10-post"&gt;Methods without Contracts (2003)&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="lisp-ref"&gt;lisp&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-07-post"&gt;&amp;quot;Career-shatteringly bad mistake&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-11-13-post"&gt;Scheme&lt;/a&gt;&lt;/li&gt;
@@ -433,6 +434,7 @@ In the presence of these twin mandates &#x2014; spend no money, and break none o
     &lt;li&gt;&lt;a href="/weblog/posts/involve-designers-from-the-beginning"&gt;&amp;quot;Involve designers from the beginning&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/architecture"&gt;Architecture&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/not-necessarily-that-simple"&gt;&amp;quot;Not necessarily that simple&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-01-12-post"&gt;Freedom of choice&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/features-are-too-big-to-fail"&gt;&amp;quot;Features are too big to fail&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/gem-exploit-devise"&gt;Gem exploit: devise&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-12-21-post"&gt;&amp;quot;Vigorous writing is concise&amp;quot;&lt;/a&gt;&lt;/li&gt;
@@ -467,13 +469,18 @@ In the presence of these twin mandates &#x2014; spend no money, and break none o
   &lt;h3 id="git-ref"&gt;git&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard"&gt;Overheard&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/git-s-killer-feature"&gt;&amp;quot;Git&#x2019;s Killer Feature&amp;quot;&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="oo-ref"&gt;oo&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-01-22-post"&gt;Paradigms&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="smalltalk-ref"&gt;smalltalk&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-12-17-post"&gt;Orientation&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/objects-are-not-hash-tables"&gt;Objects are not hash tables&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="c-ref"&gt;c&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/big-balls-of-mud"&gt;Big balls of mud&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="games-ref"&gt;games&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/drafts/2014-02-06-post3"&gt;private static final sealed cursed&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/free-to-play"&gt;Free to play&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="erl-ref"&gt;erl&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/drafts/2014-02-01-post"&gt;&amp;quot;Big changes to Erlang&amp;quot;&lt;/a&gt;&lt;/li&gt;
  
 </description>
     </item>
