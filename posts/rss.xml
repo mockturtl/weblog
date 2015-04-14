@@ -6,6 +6,81 @@
     <link/>
     <pubDate>2015-04-14</pubDate>
     <item>
+      <title>Compromise</title>
+      <link>/weblog/posts/2014-05-30-post</link>
+      <pubDate>2014-05-30</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;duplication is far cheaper than the wrong abstraction&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sandi Metz, &lt;a href="https://www.youtube.com/watch?v=x1wnI0AxpEU"&gt;&lt;em&gt;All the Little Things&lt;/em&gt;&lt;/a&gt;, Ruby on Ales, Bend, Oregon, 2014&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="https://speakerdeck.com/skmetz/all-the-little-things-rubyonales"&gt;slides&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>"The Rise and Fall of Personal Computing"</title>
+      <link>/weblog/posts/2014-05-23-post</link>
+      <pubDate>2014-05-23</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Sometimes extremism is a better point of view than conservatism.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://www.asymco.com/2012/01/17/the-rise-and-fall-of-personal-computing/"&gt;Horace Dediu&lt;/a&gt;, via &lt;a href="http://www.wirfs-brock.com/allen/posts/490"&gt;Allen Wirfs-Brock&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Overheard [4]</title>
+      <link>/weblog/posts/2014-05-19-post</link>
+      <pubDate>2014-05-19</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://github.com/ericf/yui3-gallery/pull/21"&gt;https://github.com/ericf/yui3-gallery/pull/21&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Insight</title>
+      <link>/weblog/posts/2014-05-15-post</link>
+      <pubDate>2014-05-15</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;the lack of attention span that makes our eyes glaze over when we read swaths of procedural code looking for the one thing we actually care about is the same thing that prevents us from tolerating long-form exposition of approaches to help us deal with the problem.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://gist.github.com/dhh/4849a20d2ba89b34b201#comment-1228704"&gt;Ernie Miller&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>"X rating"</title>
+      <link>/weblog/posts/2014-04-22-post</link>
+      <pubDate>2014-04-22</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Any effort spent describing what methods to use on what URIs of interest should be entirely defined within the scope of the processing rules for a media type&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven"&gt;Roy Fielding&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Boundaries</title>
+      <link>/weblog/posts/2014-04-17-post</link>
+      <pubDate>2014-04-17</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I&#x2019;ve got a real problem with formal education in today&#x2019;s world, and I&#x2019;m sad to say that when it does matter, it&#x2019;s about the piece of paper. Schools are no longer the institutions that push the boundaries of what is possible (they can no longer keep up)... that&#x2019;s going to happen at your workplace&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://brandonhays.com/blog/2014/04/05/letter-to-an-aspiring-developer/"&gt;Brandon Hays&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The scientific method</title>
+      <link>/weblog/posts/2014-04-02-post</link>
+      <pubDate>2014-04-02</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Look, the &lt;em&gt;goal&lt;/em&gt; is to prove I&amp;#39;m wrong. That means I win. I&amp;#39;ve proved I was stupid about something so that I can move on to being stupid about something more interesting.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Danielle Sucher, &lt;a href="http://devchat.tv/ruby-rogues/150-rr-the-debugging-mindset-with-danielle-sucher"&gt;&lt;em&gt;The Debugging Mindset&lt;/em&gt;&lt;/a&gt;, Ruby Rogues #150&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Oculus VR</title>
       <link>/weblog/posts/2014-03-28-post2</link>
       <pubDate>2014-03-28</pubDate>
@@ -43,12 +118,10 @@
       <link>/weblog/posts/2014-03-11-post</link>
       <pubDate>2014-03-11</pubDate>
       <description>&lt;blockquote&gt;
-&lt;p&gt;If you find a good client, you treat him or her like a combination of the Pope, the Queen, and the Dalai Lama
-&lt;br&gt;
-You can&amp;#39;t look at a CV and tell whether I&amp;#39;m the kind of person who will go above and beyond the task of transcribing what a software architect dictates that the project manager has teased out of what the director of sales has forced the enterprise sales representative to admit that he promised to the customer for the next release.&lt;/p&gt;
+&lt;p&gt;If you find a good client, you treat him or her like a combination of the Pope, the Queen, and the Dalai Lama&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;(&lt;a href="http://www.modernperlbooks.com/mt/2014/02/the-mid-career-crisis-of-the-perl-programmer.html"&gt;chromatic&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.modernperlbooks.com/mt/2014/02/the-mid-career-crisis-of-the-perl-programmer.html"&gt;chromatic&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -145,83 +218,6 @@ You can&amp;#39;t look at a CV and tell whether I&amp;#39;m the kind of person w
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href="https://wiki.debian.org/how-can-i-help"&gt;https://wiki.debian.org/how-can-i-help&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>"The Billion Dollar Mistake"</title>
-      <link>/weblog/posts/2014-02-09-post</link>
-      <pubDate>2014-02-09</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tony Hoare, &lt;a href="http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare"&gt;&lt;em&gt;Null References: The Billion Dollar Mistake&lt;/em&gt;&lt;/a&gt;, QCon London 2009&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Priorities</title>
-      <link>/weblog/posts/2014-02-06-post2</link>
-      <pubDate>2014-02-06</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;The first step is to know what the hell we&amp;#39;re doing.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://learnyousomeerlang.com/designing-a-concurrent-application#understanding-the-problem"&gt;Fred H&#xE9;bert&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>private static final sealed cursed</title>
-      <link>/weblog/posts/2014-02-06-post3</link>
-      <pubDate>2014-02-06</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;You don&#x2019;t really hate global state until you&#x2019;ve had to &lt;code&gt;grep&lt;/code&gt; a million lines of code at three in the morning trying to find the one errant call that&#x2019;s setting a static variable to the wrong value.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Bob Nystrom, &lt;a href="http://gameprogrammingpatterns.com/singleton.html"&gt;&lt;em&gt;Game Programming Patterns&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Culture</title>
-      <link>/weblog/posts/2014-02-06-post</link>
-      <pubDate>2014-02-06</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;The only problem with Microsoft is they just have no taste.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mOgOP_aqqtg"&gt;Steve Jobs&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>"Big changes to Erlang"</title>
-      <link>/weblog/posts/2014-02-01-post</link>
-      <pubDate>2014-02-01</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Records are dead - long live maps !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://joearms.github.io/2014/02/01/big-changes-to-erlang.html"&gt;Joe Armstrong&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Professionalism</title>
-      <link>/weblog/posts/2014-01-25-post</link>
-      <pubDate>2014-01-25</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Professionalism is the willingness to refuse to obey orders that do harm to others.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://blog.8thlight.com/uncle-bob/2013/11/12/Healthcare-gov.html"&gt;Robert Martin&lt;/a&gt;, via &lt;a href="http://podcasts.thoughtbot.com/giantrobots/79"&gt;Ben Orenstein&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Labor theory of value</title>
-      <link>/weblog/posts/2014-01-24-post</link>
-      <pubDate>2014-01-24</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Effort equates neither to speed nor direction.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html"&gt;Robert Martin&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
