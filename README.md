@@ -7,12 +7,23 @@ This site is generated with [ruhoh][] v2.6.
 
 Download this [gist][], per the documentation.
 
+preview
+-------
+
+```sh
+$ ./tool/preview.sh
+```
+
+Visit [localhost:9292](http://localhost:9292).  View drafts at `/dash`.
+
 publishing
 ----------
 
 ```sh
 $ ./tool/deploy.sh
 ```
+
+Note files in `*/drafts/` are not compiled.
 
 [ruhoh]: http://ruhoh.com/
 [gist]: https://gist.github.com/jaimalchohan/8090954
