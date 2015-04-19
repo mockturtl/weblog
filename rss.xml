@@ -4,7 +4,7 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-14</pubDate>
+    <pubDate>2015-04-19</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
@@ -12,6 +12,7 @@
   &lt;h2&gt;2015&lt;/h2&gt;
     &lt;h3&gt;April&lt;/h3&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-04-19&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-19-post"&gt;Markets&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-04&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-04-post"&gt;Curriculum&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-01&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-01-post2"&gt;iddqd&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-01&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-01-post"&gt;Foolery&lt;/a&gt;&lt;/li&gt;
@@ -281,6 +282,23 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-19-post"&gt;Markets&lt;/a&gt; &lt;span class="date"&gt;2015-04-19&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Our choices are all chaos &#x2013; either chaos harnessed by a transparent, self-correcting social process, or chaos hidden and denied and eating at the roots of our software.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://esr.ibiblio.org/?p=6737"&gt;Eric Raymond&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="https://mockturtl.github.io/weblog/posts/a-bit-of-a-detour/"&gt;previously noted&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/2015-04-19-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-04-post"&gt;Curriculum&lt;/a&gt; &lt;span class="date"&gt;2015-04-04&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -339,21 +357,6 @@ Students don't seem to care much about developing defensive test cases, but they
 
   &lt;div class="more"&gt;
     &lt;a href="/weblog/posts/2015-03-30-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-03-28-post"&gt;Forward&lt;/a&gt; &lt;span class="date"&gt;2015-03-28&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1,251 classes have been replaced with Microsoft's open sourced ones&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="https://mobile.twitter.com/migueldeicaza/status/581068613542649856"&gt;Miguel de Icaza&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2015-03-28-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -435,7 +438,7 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;33&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#unix-ref"&gt;unix &lt;span&gt;12&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#unix-ref"&gt;unix &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#apt-ref"&gt;apt &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
@@ -620,6 +623,7 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;li&gt;&lt;a href="/weblog/posts/new-systemd-module-libc"&gt;New systemd module: libc&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-04-01-post"&gt;Foolery&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/pipes"&gt;Pipes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2015-04-19-post"&gt;Markets&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/a-bit-of-a-detour"&gt;&amp;quot;A bit of a detour&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/this-is-an-issue-for-the-long-term-viability-of-gcc"&gt;&amp;quot;This is an issue for the long term viability of GCC&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/economics-of-bad-ideas"&gt;Economics of bad ideas&lt;/a&gt;&lt;/li&gt;

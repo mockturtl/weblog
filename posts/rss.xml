@@ -4,7 +4,20 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-14</pubDate>
+    <pubDate>2015-04-19</pubDate>
+    <item>
+      <title>Markets</title>
+      <link>/weblog/posts/2015-04-19-post</link>
+      <pubDate>2015-04-19</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Our choices are all chaos &#x2013; either chaos harnessed by a transparent, self-correcting social process, or chaos hidden and denied and eating at the roots of our software.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://esr.ibiblio.org/?p=6737"&gt;Eric Raymond&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="https://mockturtl.github.io/weblog/posts/a-bit-of-a-detour/"&gt;previously noted&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Curriculum</title>
       <link>/weblog/posts/2015-04-04-post</link>
@@ -215,17 +228,6 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;(&lt;a href="https://news.ycombinator.com/item?id=8817457"&gt;comments&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Aspiration</title>
-      <link>/weblog/posts/2015-01-02-post</link>
-      <pubDate>2015-01-02</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;LuaJIT with the JIT enabled is much faster than all of the other languages benchmarked, including Wren, because Mike Pall is a robot from the future.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://munificent.github.io/wren/performance.html"&gt;Bob Nystrom&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
