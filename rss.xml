@@ -4,7 +4,7 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-19</pubDate>
+    <pubDate>2015-04-21</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
@@ -12,6 +12,7 @@
   &lt;h2&gt;2015&lt;/h2&gt;
     &lt;h3&gt;April&lt;/h3&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-04-20&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-20-post"&gt;Etymology&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-19&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-19-post"&gt;Markets&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-04&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-04-post"&gt;Curriculum&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-01&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-01-post2"&gt;iddqd&lt;/a&gt;&lt;/li&gt;
@@ -282,6 +283,21 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-20-post"&gt;Etymology&lt;/a&gt; &lt;span class="date"&gt;2015-04-20&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It meant event-poll and also was edge-triggered. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://lkml.iu.edu/hypermail/linux/kernel/0305.2/0730.html"&gt;Davide Libenzi&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/2015-04-20-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-19-post"&gt;Markets&lt;/a&gt; &lt;span class="date"&gt;2015-04-19&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -342,21 +358,6 @@ Students don't seem to care much about developing defensive test cases, but they
 
   &lt;div class="more"&gt;
     &lt;a href="/weblog/posts/2015-04-01-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-03-30-post"&gt;Innovation tokens&lt;/a&gt; &lt;span class="date"&gt;2015-03-30&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;It is basically always the case that the long-term costs of keeping a system working reliably vastly exceed any inconveniences you encounter while building it. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://mcfunley.com/choose-boring-technology"&gt;Dan McKinley&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2015-03-30-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -438,7 +439,7 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;33&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#unix-ref"&gt;unix &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#unix-ref"&gt;unix &lt;span&gt;14&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#apt-ref"&gt;apt &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
@@ -621,6 +622,7 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;li&gt;&lt;a href="/weblog/posts/folk-process"&gt;Folk process&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/orthodoxy"&gt;Orthodoxy&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/new-systemd-module-libc"&gt;New systemd module: libc&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2015-04-20-post"&gt;Etymology&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-04-01-post"&gt;Foolery&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/pipes"&gt;Pipes&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-04-19-post"&gt;Markets&lt;/a&gt;&lt;/li&gt;

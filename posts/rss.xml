@@ -4,7 +4,18 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-19</pubDate>
+    <pubDate>2015-04-21</pubDate>
+    <item>
+      <title>Etymology</title>
+      <link>/weblog/posts/2015-04-20-post</link>
+      <pubDate>2015-04-20</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;It meant event-poll and also was edge-triggered. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://lkml.iu.edu/hypermail/linux/kernel/0305.2/0730.html"&gt;Davide Libenzi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Markets</title>
       <link>/weblog/posts/2015-04-19-post</link>
@@ -217,17 +228,6 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href="https://github.com/ValveSoftware/steam-for-linux/issues/3671"&gt;https://github.com/ValveSoftware/steam-for-linux/issues/3671&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Deadpan</title>
-      <link>/weblog/posts/2015-01-03-post</link>
-      <pubDate>2015-01-03</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;This is the same language that has &lt;code&gt;notwithstanding&lt;/code&gt; as an (ignored) keyword&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(&lt;a href="https://news.ycombinator.com/item?id=8817457"&gt;comments&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
   </channel>
