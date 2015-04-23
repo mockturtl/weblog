@@ -1,3 +1,7 @@
 #!/bin/sh
 
-bundle exec ruhoh server 9292
+p=9292
+
+bundle exec ruhoh server $p&
+sleep 0.5
+open http://localhost:$p
