@@ -4,7 +4,7 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-21</pubDate>
+    <pubDate>2015-04-23</pubDate>
     <item>
       <title>Compile</title>
       <link>/weblog/tool/compile.sh</link>
@@ -33,11 +33,34 @@ bundle exec ruhoh posts draft "$@"
 </description>
     </item>
     <item>
+      <title>Kill</title>
+      <link>/weblog/tool/kill.sh</link>
+      <description>#!/bin/sh
+
+cmd="ruho[h]"
+unalias grep 2&gt; /dev/null
+pid=$(ps -o pid,cmd | grep $cmd | awk '{ print $1 }')
+
+if ! [ "$pid" -eq "$pid" ] 2&gt; /dev/null; then
+  cat&lt;&lt;EOF
+  Preview not running.
+EOF
+  exit 11
+fi
+
+kill $pid
+</description>
+    </item>
+    <item>
       <title>Preview</title>
       <link>/weblog/tool/preview.sh</link>
       <description>#!/bin/sh
 
-bundle exec ruhoh server 9292
+p=9292
+
+bundle exec ruhoh server $p&amp;
+sleep 0.5
+open http://localhost:$p
 </description>
     </item>
   </channel>

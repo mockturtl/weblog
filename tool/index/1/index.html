@@ -87,11 +87,31 @@ bundle exec ruhoh posts draft "$@"
         </div>
       </div>
       <div class="tool">
+        <h3 class="title"><a href="/weblog/tool/kill.sh">Kill</a> <span class="date"></span></h3>
+
+        <div class="summary">#!/bin/sh
+
+cmd="ruho[h]"
+unalias grep 2&gt; /dev/null
+pid=$(ps -o pid,cmd | grep $cmd | awk '{ print $1 }')
+
+if ! [ "$pid" -eq "$pid" ] 2&gt; /dev/null; then
+  cat</div>
+
+        <div class="more">
+          <a href="/weblog/tool/kill.sh" class="btn btn-small">read more..</a>
+        </div>
+      </div>
+      <div class="tool">
         <h3 class="title"><a href="/weblog/tool/preview.sh">Preview</a> <span class="date"></span></h3>
 
         <div class="summary">#!/bin/sh
 
-bundle exec ruhoh server 9292
+p=9292
+
+bundle exec ruhoh server $p&amp;
+sleep 0.5
+open http://localhost:$p
 </div>
 
         <div class="more">

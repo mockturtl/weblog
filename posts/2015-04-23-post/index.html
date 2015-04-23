@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Etymology</title>
+    <title>Benchmarks</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="">
 
@@ -47,20 +47,26 @@
       <div class="content">
         
 <div class="page-header">
-  <h1>Etymology </h1>
+  <h1>Benchmarks </h1>
 </div>
 
 <div class="row-fluid post-full">
   <div class="span12">
     <div class="date">
-      <span>2015-04-20</strong>
+      <span>2015-04-23</strong>
     </div>
     <div class="content">
       <blockquote>
-<p>It meant event-poll and also was edge-triggered. </p>
+<p>For some background - postgresql performs best with ~2 connections per core. Having more than this number of connections will just create contention and significantly slow down the benchmark result.</p>
 </blockquote>
 
-<p><a href="http://lkml.iu.edu/hypermail/linux/kernel/0305.2/0730.html">Davide Libenzi</a></p>
+<p><a href="https://github.com/TechEmpower/FrameworkBenchmarks/issues/1556#issuecomment-95381413">Greg Lowe</a></p>
+
+<blockquote>
+<p>A formula which has held up pretty well across a lot of benchmarks for years is that for optimal throughput the number of active connections should be somewhere near <code>(core_count * 2) + effective_spindle_count</code>.</p>
+</blockquote>
+
+<p><a href="https://wiki.postgresql.org/wiki/Number_Of_Database_Connections">wiki.postgresql.org</a></p>
 
     </div>
     <ul class="tag_box inline">
@@ -69,17 +75,17 @@
     <ul class="tag_box inline">
       <li><i class="icon-tags"></i></li>
       <li>
-        <a href="/weblog/tags#unix-ref">unix <span>14</span></a>
+        <a href="/weblog/tags#sql-ref">sql <span>1</span></a>
       </li>
     </ul>
     <hr>
     <div class="pagination">
       <ul>
-          <li class="prev"><a href="/weblog/posts/2015-04-19-post" title="Markets">&larr; Previous</a></li>
+          <li class="prev"><a href="/weblog/posts/2015-04-20-post" title="Etymology">&larr; Previous</a></li>
 
           <li><a href="/weblog/archive">Archive</a></li>
 
-          <li class="next"><a href="/weblog/posts/2015-04-23-post" title="Benchmarks">Next &rarr;</a></li>
+          <li class="next disabled"><a>Next &rarr;</a>
       </ul>
     </div>
     <hr>

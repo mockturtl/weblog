@@ -48,6 +48,27 @@
         <div class="row-fluid">
   <div class="span12">
       <div class="posts">
+        <h3 class="title"><a href="/weblog/posts/2015-04-23-post">Benchmarks</a> <span class="date">2015-04-23</span></h3>
+
+        <div class="summary">
+<blockquote>
+<p>For some background - postgresql performs best with ~2 connections per core. Having more than this number of connections will just create contention and significantly slow down the benchmark result.</p>
+</blockquote>
+
+<p><a href="https://github.com/TechEmpower/FrameworkBenchmarks/issues/1556#issuecomment-95381413">Greg Lowe</a></p>
+
+<blockquote>
+<p>A formula which has held up pretty well across a lot of benchmarks for years is that for optimal throughput the number of active connections should be somewhere near <code>(core_count * 2) + effective_spindle_count</code>.</p>
+</blockquote>
+
+<p><a href="https://wiki.postgresql.org/wiki/Number_Of_Database_Connections">wiki.postgresql.org</a></p>
+</div>
+
+        <div class="more">
+          <a href="/weblog/posts/2015-04-23-post" class="btn btn-small">read more..</a>
+        </div>
+      </div>
+      <div class="posts">
         <h3 class="title"><a href="/weblog/posts/2015-04-20-post">Etymology</a> <span class="date">2015-04-20</span></h3>
 
         <div class="summary">
@@ -108,21 +129,6 @@ Students don't seem to care much about developing defensive test cases, but they
 
         <div class="more">
           <a href="/weblog/posts/2015-04-01-post2" class="btn btn-small">read more..</a>
-        </div>
-      </div>
-      <div class="posts">
-        <h3 class="title"><a href="/weblog/posts/2015-04-01-post">Foolery</a> <span class="date">2015-04-01</span></h3>
-
-        <div class="summary">
-<blockquote>
-<p>The more you have CPUs the higher you scale, to the point that software execution should complete before you start writing that software (assuming you have around -1024 CPUs).</p>
-</blockquote>
-
-<p>(<a href="https://lkml.org/lkml/2015/3/31/994">lkml</a>)</p>
-</div>
-
-        <div class="more">
-          <a href="/weblog/posts/2015-04-01-post" class="btn btn-small">read more..</a>
         </div>
       </div>
     

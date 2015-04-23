@@ -4,7 +4,7 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-21</pubDate>
+    <pubDate>2015-04-23</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
@@ -12,6 +12,7 @@
   &lt;h2&gt;2015&lt;/h2&gt;
     &lt;h3&gt;April&lt;/h3&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-04-23&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-23-post"&gt;Benchmarks&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-20&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-20-post"&gt;Etymology&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-19&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-19-post"&gt;Markets&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-04&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-04-post"&gt;Curriculum&lt;/a&gt;&lt;/li&gt;
@@ -283,6 +284,27 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-23-post"&gt;Benchmarks&lt;/a&gt; &lt;span class="date"&gt;2015-04-23&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For some background - postgresql performs best with ~2 connections per core. Having more than this number of connections will just create contention and significantly slow down the benchmark result.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/TechEmpower/FrameworkBenchmarks/issues/1556#issuecomment-95381413"&gt;Greg Lowe&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A formula which has held up pretty well across a lot of benchmarks for years is that for optimal throughput the number of active connections should be somewhere near &lt;code&gt;(core_count * 2) + effective_spindle_count&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://wiki.postgresql.org/wiki/Number_Of_Database_Connections"&gt;wiki.postgresql.org&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/2015-04-23-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-20-post"&gt;Etymology&lt;/a&gt; &lt;span class="date"&gt;2015-04-20&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -343,21 +365,6 @@ Students don't seem to care much about developing defensive test cases, but they
 
   &lt;div class="more"&gt;
     &lt;a href="/weblog/posts/2015-04-01-post2" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-01-post"&gt;Foolery&lt;/a&gt; &lt;span class="date"&gt;2015-04-01&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The more you have CPUs the higher you scale, to the point that software execution should complete before you start writing that software (assuming you have around -1024 CPUs).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(&lt;a href="https://lkml.org/lkml/2015/3/31/994"&gt;lkml&lt;/a&gt;)&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2015-04-01-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -455,6 +462,9 @@ Students don't seem to care much about developing defensive test cases, but they
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#diff -&amp;gt; apply-ref"&gt;diff -&amp;gt; apply &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/weblog/tags#sql-ref"&gt;sql &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#py-ref"&gt;py &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
@@ -641,6 +651,8 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;li&gt;&lt;a href="/weblog/posts/the-most-dangerous-code-in-the-world"&gt;&amp;quot;The Most Dangerous Code in the World&amp;quot;&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="diff -&amp;gt; apply-ref"&gt;diff -&amp;gt; apply&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/the-most-dangerous-code-in-the-world"&gt;&amp;quot;The Most Dangerous Code in the World&amp;quot;&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="sql-ref"&gt;sql&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2015-04-23-post"&gt;Benchmarks&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="py-ref"&gt;py&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-12-30-post"&gt;Why aren&amp;#39;t people using Python 3?&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-10-post"&gt;Methods without Contracts (2003)&lt;/a&gt;&lt;/li&gt;

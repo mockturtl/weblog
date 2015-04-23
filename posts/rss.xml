@@ -4,7 +4,24 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-21</pubDate>
+    <pubDate>2015-04-23</pubDate>
+    <item>
+      <title>Benchmarks</title>
+      <link>/weblog/posts/2015-04-23-post</link>
+      <pubDate>2015-04-23</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;For some background - postgresql performs best with ~2 connections per core. Having more than this number of connections will just create contention and significantly slow down the benchmark result.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/TechEmpower/FrameworkBenchmarks/issues/1556#issuecomment-95381413"&gt;Greg Lowe&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A formula which has held up pretty well across a lot of benchmarks for years is that for optimal throughput the number of active connections should be somewhere near &lt;code&gt;(core_count * 2) + effective_spindle_count&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://wiki.postgresql.org/wiki/Number_Of_Database_Connections"&gt;wiki.postgresql.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Etymology</title>
       <link>/weblog/posts/2015-04-20-post</link>
@@ -217,17 +234,6 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;(&lt;a href="http://www.newyorker.com/magazine/2014/10/20/pets-allowed"&gt;New Yorker&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Not again</title>
-      <link>/weblog/posts/2015-01-16-post</link>
-      <pubDate>2015-01-16</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Ran steam. It deleted everything on system owned by user.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="https://github.com/ValveSoftware/steam-for-linux/issues/3671"&gt;https://github.com/ValveSoftware/steam-for-linux/issues/3671&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
