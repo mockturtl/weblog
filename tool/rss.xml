@@ -22,6 +22,9 @@ git submodule update &amp;&amp; \
 #git push origin --delete gh-pages &amp;&amp; \
 bundle exec ruhoh publish github &amp;&amp; \
 git submodule update
+
+. ./.env
+open $prod
 </description>
     </item>
     <item>
