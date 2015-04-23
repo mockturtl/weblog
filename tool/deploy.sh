@@ -5,5 +5,5 @@ git submodule update && \
 bundle exec ruhoh publish github && \
 git submodule update
 
-. ./.env
+prod="https://mockturtl.github.io/weblog"
 open $prod
