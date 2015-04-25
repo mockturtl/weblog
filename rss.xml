@@ -4,7 +4,7 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-23</pubDate>
+    <pubDate>2015-04-25</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
@@ -12,6 +12,7 @@
   &lt;h2&gt;2015&lt;/h2&gt;
     &lt;h3&gt;April&lt;/h3&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-04-25&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/jessie"&gt;VIII&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-23&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-23-post"&gt;Benchmarks&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-20&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-20-post"&gt;Etymology&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-19&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-19-post"&gt;Markets&lt;/a&gt;&lt;/li&gt;
@@ -284,6 +285,21 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/jessie"&gt;VIII&lt;/a&gt; &lt;span class="date"&gt;2015-04-25&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;p&gt;&lt;a href="https://identi.ca/debian"&gt;https://identi.ca/debian&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/nGDDr1c.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/frazelledazzell/status/592007920151175170"&gt;Jessie Frazelle&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/jessie" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-23-post"&gt;Benchmarks&lt;/a&gt; &lt;span class="date"&gt;2015-04-23&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -350,21 +366,6 @@ Students don't seem to care much about developing defensive test cases, but they
 
   &lt;div class="more"&gt;
     &lt;a href="/weblog/posts/2015-04-04-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-01-post2"&gt;iddqd&lt;/a&gt; &lt;span class="date"&gt;2015-04-01&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Teaching my older son lisp (Racket). Working on a Pokemon battle simulator. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="https://twitter.com/ID_AA_Carmack/status/569688211158511616/photo/1"&gt;John Carmack&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2015-04-01-post2" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -434,7 +435,7 @@ Students don't seem to care much about developing defensive test cases, but they
       <description>
 &lt;ul class="tag_box inline"&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;39&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;38&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#go-ref"&gt;go &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
@@ -443,13 +444,13 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;a href="/weblog/tags#web-ref"&gt;web &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;33&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;35&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#unix-ref"&gt;unix &lt;span&gt;14&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#unix-ref"&gt;unix &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#apt-ref"&gt;apt &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#deb-ref"&gt;deb &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#win-ref"&gt;win &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
@@ -480,9 +481,6 @@ Students don't seem to care much about developing defensive test cases, but they
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#rb-ref"&gt;rb &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="/weblog/tags#mvn-ref"&gt;mvn &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#java-ref"&gt;java &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
@@ -527,9 +525,6 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;a href="/weblog/tags#git-ref"&gt;git &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#deb-ref"&gt;deb &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;a href="/weblog/tags#oo-ref"&gt;oo &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -543,7 +538,6 @@ Students don't seem to care much about developing defensive test cases, but they
   &lt;h3 id="culture shock-ref"&gt;culture shock&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-09-18-post"&gt;The Order of Things&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-04-02-post"&gt;The scientific method&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/tradeoffs"&gt;Tradeoffs.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-03-08-post"&gt;&amp;quot;Culture *is* process&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/the-most-dangerous-code-in-the-world"&gt;&amp;quot;The Most Dangerous Code in the World&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-06-26-post"&gt;Core values&lt;/a&gt;&lt;/li&gt;
@@ -622,11 +616,12 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-06-post"&gt;Culture&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-03-21-post"&gt;Value proposition&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/jazz-impressions-of-japan-1964"&gt;Jazz Impressions of Japan (1964)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/drafts/quantity"&gt;Quantity&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/drafts/untitled"&gt;Destiny&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard-2"&gt;Overheard[2]&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-18-post"&gt;&amp;quot;Bizarre Shadowy Paper-Based Payment System Being Rolled Out Worldwide&amp;quot;&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="unix-ref"&gt;unix&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-08-27-post"&gt;pid 1&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/tradeoffs"&gt;Tradeoffs.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/cygcheck"&gt;cygcheck&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-08-18-post"&gt;Plasma 5&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/folk-process"&gt;Folk process&lt;/a&gt;&lt;/li&gt;
@@ -639,9 +634,12 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;li&gt;&lt;a href="/weblog/posts/a-bit-of-a-detour"&gt;&amp;quot;A bit of a detour&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/this-is-an-issue-for-the-long-term-viability-of-gcc"&gt;&amp;quot;This is an issue for the long term viability of GCC&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/economics-of-bad-ideas"&gt;Economics of bad ideas&lt;/a&gt;&lt;/li&gt;
-  &lt;h3 id="apt-ref"&gt;apt&lt;/h3&gt;
+  &lt;h3 id="deb-ref"&gt;deb&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/tradeoffs"&gt;Tradeoffs.&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/love-your-package-manager"&gt;Love your package manager&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/jessie"&gt;VIII&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-02-15-post"&gt;WNPP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-11-post"&gt;That&amp;#39;s a big Twinkie.&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="win-ref"&gt;win&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/cygcheck"&gt;cygcheck&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/rapidee"&gt;rapidee&lt;/a&gt;&lt;/li&gt;
@@ -693,8 +691,6 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;li&gt;&lt;a href="/weblog/posts/gem-exploit-devise"&gt;Gem exploit: devise&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-12-21-post"&gt;&amp;quot;Vigorous writing is concise&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/dependency-injection-is-not-a-virtue"&gt;&amp;quot;Dependency injection is not a virtue&amp;quot;&lt;/a&gt;&lt;/li&gt;
-  &lt;h3 id="mvn-ref"&gt;mvn&lt;/h3&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/love-your-package-manager"&gt;Love your package manager&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="java-ref"&gt;java&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-06-20-post"&gt;&amp;quot;Hating Java in 2014&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/further-affiant-sayeth-naught"&gt;&amp;quot;Further affiant sayeth naught.&amp;quot;&lt;/a&gt;&lt;/li&gt;
@@ -740,9 +736,6 @@ Students don't seem to care much about developing defensive test cases, but they
   &lt;h3 id="git-ref"&gt;git&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard"&gt;Overheard&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/git-s-killer-feature"&gt;&amp;quot;Git&#x2019;s Killer Feature&amp;quot;&lt;/a&gt;&lt;/li&gt;
-  &lt;h3 id="deb-ref"&gt;deb&lt;/h3&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2014-02-15-post"&gt;WNPP&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-11-post"&gt;That&amp;#39;s a big Twinkie.&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="oo-ref"&gt;oo&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-22-post"&gt;Paradigms&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="smalltalk-ref"&gt;smalltalk&lt;/h3&gt;
