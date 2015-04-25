@@ -23,7 +23,9 @@ publishing
 $ ./tool/deploy.sh
 ```
 
-Note files in `*/drafts/` are not compiled.  Note ruhoh's deploy process **destroys** files not under version control.
+Note files in `*/drafts/` are not compiled.
+
+Note ruhoh's deploy process **destroys** files not under version control.
 
 GitHub Pages can be finicky with submodules.  If the site doesn't update, run the deploy script again.
 
