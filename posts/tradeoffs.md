@@ -2,7 +2,7 @@
 title: "Tradeoffs."
 date: '2013-02-07'
 description:
-tags: [apt, unix, culture shock, muses]
+tags: [deb, muses]
 
 ---
 

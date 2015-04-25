@@ -2,7 +2,7 @@
 title: "Love your package manager"
 date: '2012-11-17'
 description:
-tags: [apt, rb, mvn]
+tags: [deb, rb]
 
 ---
 
