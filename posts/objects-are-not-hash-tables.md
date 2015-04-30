@@ -2,7 +2,7 @@
 title: "Objects are not hash tables"
 date: '2013-04-05'
 description:
-tags: [smalltalk, js]
+tags: [st, js]
 
 ---
 
