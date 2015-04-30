@@ -4,7 +4,7 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-25</pubDate>
+    <pubDate>2015-04-30</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
@@ -12,6 +12,7 @@
   &lt;h2&gt;2015&lt;/h2&gt;
     &lt;h3&gt;April&lt;/h3&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-04-30&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/diamonds-are-forever"&gt;Diamonds are forever&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-25&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/jessie"&gt;VIII&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-23&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-23-post"&gt;Benchmarks&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-20&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-20-post"&gt;Etymology&lt;/a&gt;&lt;/li&gt;
@@ -285,6 +286,21 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/diamonds-are-forever"&gt;Diamonds are forever&lt;/a&gt; &lt;span class="date"&gt;2015-04-30&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If there's a specialization, by definition, there's never just one specialization.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sandi Metz, &lt;a href="https://www.youtube.com/watch?v=LdWMcs9EEOE&amp;amp;feature=youtu.be&amp;amp;t=7h34m37s"&gt;&lt;em&gt;Nothing is Something&lt;/em&gt;&lt;/a&gt;, RailsConf 2015, Atlanta, Georgia&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/diamonds-are-forever" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/jessie"&gt;VIII&lt;/a&gt; &lt;span class="date"&gt;2015-04-25&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -352,22 +368,6 @@
     &lt;a href="/weblog/posts/2015-04-19-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-04-post"&gt;Curriculum&lt;/a&gt; &lt;span class="date"&gt;2015-04-04&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I use test cases turned in by students against all other students.
-Students don't seem to care much about developing defensive test cases, but they unleash hell when it comes to sandbagging their classmates.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://matt.might.net/articles/what-cs-majors-should-know/"&gt;Matt Might&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2015-04-04-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
 
 &lt;div class="pagination"&gt;
   &lt;ul&gt;
@@ -402,6 +402,7 @@ Students don't seem to care much about developing defensive test cases, but they
       &lt;li&gt;&lt;a href="/weblog/posts/index/29"&gt;29&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href="/weblog/posts/index/30"&gt;30&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href="/weblog/posts/index/31"&gt;31&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/weblog/posts/index/32"&gt;32&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/div&gt;
 </description>
@@ -480,7 +481,7 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;a href="/weblog/tags#dart-ref"&gt;dart &lt;span&gt;9&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#rb-ref"&gt;rb &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#rb-ref"&gt;rb &lt;span&gt;15&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#java-ref"&gt;java &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
@@ -495,10 +496,13 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;a href="/weblog/tags#lawyers-ref"&gt;lawyers &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;a href="/weblog/tags#st-ref"&gt;st &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;a href="/weblog/tags#games-ref"&gt;games &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#erl-ref"&gt;erl &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#erl-ref"&gt;erl &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#sh-ref"&gt;sh &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -523,12 +527,6 @@ Students don't seem to care much about developing defensive test cases, but they
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#git-ref"&gt;git &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="/weblog/tags#oo-ref"&gt;oo &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="/weblog/tags#smalltalk-ref"&gt;smalltalk &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#c++-ref"&gt;c++ &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -686,10 +684,12 @@ Students don't seem to care much about developing defensive test cases, but they
     &lt;li&gt;&lt;a href="/weblog/posts/2014-06-27-post"&gt;reinventing the wheel&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-12-post"&gt;Freedom of choice&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/features-are-too-big-to-fail"&gt;&amp;quot;Features are too big to fail&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/diamonds-are-forever"&gt;Diamonds are forever&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-18-post2"&gt;Data injection vulnerability in ActiveRecord&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/gem-exploit-devise"&gt;Gem exploit: devise&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-12-21-post"&gt;&amp;quot;Vigorous writing is concise&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/dependency-injection-is-not-a-virtue"&gt;&amp;quot;Dependency injection is not a virtue&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/drafts/history"&gt;Programthropology&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="java-ref"&gt;java&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-06-20-post"&gt;&amp;quot;Hating Java in 2014&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/further-affiant-sayeth-naught"&gt;&amp;quot;Further affiant sayeth naught.&amp;quot;&lt;/a&gt;&lt;/li&gt;
@@ -705,12 +705,19 @@ Students don't seem to care much about developing defensive test cases, but they
   &lt;h3 id="lawyers-ref"&gt;lawyers&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-10-07-post"&gt;&amp;quot;Rockets vs. Rubber Bands&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-01-01-post"&gt;Session Initiation Protocol&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="st-ref"&gt;st&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-06-27-post"&gt;reinventing the wheel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/diamonds-are-forever"&gt;Diamonds are forever&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-01-22-post"&gt;Paradigms&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2013-12-17-post"&gt;Orientation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/objects-are-not-hash-tables"&gt;Objects are not hash tables&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="games-ref"&gt;games&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-04-01-post2"&gt;iddqd&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-06-post3"&gt;private static final sealed cursed&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/free-to-play"&gt;Free to play&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="erl-ref"&gt;erl&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-06-post2"&gt;Priorities&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-01-22-post"&gt;Paradigms&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-01-post"&gt;&amp;quot;Big changes to Erlang&amp;quot;&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="sh-ref"&gt;sh&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-01-16-post"&gt;Not again&lt;/a&gt;&lt;/li&gt;
@@ -735,11 +742,6 @@ Students don't seem to care much about developing defensive test cases, but they
   &lt;h3 id="git-ref"&gt;git&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard"&gt;Overheard&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/git-s-killer-feature"&gt;&amp;quot;Git&#x2019;s Killer Feature&amp;quot;&lt;/a&gt;&lt;/li&gt;
-  &lt;h3 id="oo-ref"&gt;oo&lt;/h3&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2014-01-22-post"&gt;Paradigms&lt;/a&gt;&lt;/li&gt;
-  &lt;h3 id="smalltalk-ref"&gt;smalltalk&lt;/h3&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2013-12-17-post"&gt;Orientation&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/objects-are-not-hash-tables"&gt;Objects are not hash tables&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="c++-ref"&gt;c++&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-06-13-post2"&gt;Fortune favors the bold&lt;/a&gt;&lt;/li&gt;
  

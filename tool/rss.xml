@@ -4,7 +4,7 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-25</pubDate>
+    <pubDate>2015-04-30</pubDate>
     <item>
       <title>Compile</title>
       <link>/weblog/tool/compile.sh</link>
@@ -18,8 +18,17 @@ bundle exec ruhoh compile
       <link>/weblog/tool/deploy.sh</link>
       <description>#!/bin/sh
 
+unversioned=$(git ls-files --other | wc -l)
+
+if [ $unversioned -gt 0 ]; then
+  cat&lt;&lt;EOF
+  ERROR: $unversioned files will be deleted if you deploy.
+  'git add|stash' them.
+EOF
+  exit 13
+fi
+
 git submodule update &amp;&amp; \
-#git push origin --delete gh-pages &amp;&amp; \
 bundle exec ruhoh publish github &amp;&amp; \
 git submodule update
 
