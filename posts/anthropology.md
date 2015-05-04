@@ -1,5 +1,5 @@
 ---
-title: 'Programthropology'
+title: 'Anthropology'
 date: '2015-04-25'
 description:
 tags: [rb]
