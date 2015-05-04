@@ -4,15 +4,21 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-30</pubDate>
+    <pubDate>2015-05-04</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
       <description>
   &lt;h2&gt;2015&lt;/h2&gt;
+    &lt;h3&gt;May&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-05-04&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/embedded"&gt;Embedded&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2015-05-02&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/sky"&gt;Sky&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
     &lt;h3&gt;April&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;span&gt;2015-04-30&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/diamonds-are-forever"&gt;Diamonds are forever&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;span&gt;2015-04-25&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/anthropology"&gt;Anthropology&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-25&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/jessie"&gt;VIII&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-23&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-23-post"&gt;Benchmarks&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-04-20&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/2015-04-20-post"&gt;Etymology&lt;/a&gt;&lt;/li&gt;
@@ -286,6 +292,36 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/embedded"&gt;Embedded&lt;/a&gt; &lt;span class="date"&gt;2015-05-04&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hospira Lifecare PCA infusion pump running "SW ver 412" does not require authentication for Telnet sessions, which allows remote attackers to gain root privileges via TCP port 23.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-3459"&gt;CVE-2015-3459&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/embedded" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/sky"&gt;Sky&lt;/a&gt; &lt;span class="date"&gt;2015-05-02&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PnIWl33YMwA?list=PLOU2XLYxmsIIQorIS8gagUiMau9S84vZV" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Eric Seidel, Dart Summit 2015, San Francisco, California&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="https://play.google.com/store/apps/details?id=org.domokit.sky.demo"&gt;demo&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/sky" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/diamonds-are-forever"&gt;Diamonds are forever&lt;/a&gt; &lt;span class="date"&gt;2015-04-30&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -303,6 +339,21 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/anthropology"&gt;Anthropology&lt;/a&gt; &lt;span class="date"&gt;2015-04-25&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;presentation of history is an incredibly powerful way of influencing people and teaching people&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://devchat.tv/ruby-rogues/204-rr-limerence-with-dave-thomas"&gt;Dave Thomas&lt;/a&gt;, Ruby Rogues #204&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/anthropology" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/jessie"&gt;VIII&lt;/a&gt; &lt;span class="date"&gt;2015-04-25&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -315,59 +366,6 @@
 
   &lt;div class="more"&gt;
     &lt;a href="/weblog/posts/jessie" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-23-post"&gt;Benchmarks&lt;/a&gt; &lt;span class="date"&gt;2015-04-23&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;For some background - postgresql performs best with ~2 connections per core. Having more than this number of connections will just create contention and significantly slow down the benchmark result.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="https://github.com/TechEmpower/FrameworkBenchmarks/issues/1556#issuecomment-95381413"&gt;Greg Lowe&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A formula which has held up pretty well across a lot of benchmarks for years is that for optimal throughput the number of active connections should be somewhere near &lt;code&gt;(core_count * 2) + effective_spindle_count&lt;/code&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="https://wiki.postgresql.org/wiki/Number_Of_Database_Connections"&gt;wiki.postgresql.org&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2015-04-23-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-20-post"&gt;Etymology&lt;/a&gt; &lt;span class="date"&gt;2015-04-20&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;It meant event-poll and also was edge-triggered. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://lkml.iu.edu/hypermail/linux/kernel/0305.2/0730.html"&gt;Davide Libenzi&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2015-04-20-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/2015-04-19-post"&gt;Markets&lt;/a&gt; &lt;span class="date"&gt;2015-04-19&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Our choices are all chaos &#x2013; either chaos harnessed by a transparent, self-correcting social process, or chaos hidden and denied and eating at the roots of our software.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://esr.ibiblio.org/?p=6737"&gt;Eric Raymond&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href="https://mockturtl.github.io/weblog/posts/a-bit-of-a-detour/"&gt;previously noted&lt;/a&gt;)&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/2015-04-19-post" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -480,10 +478,10 @@
     &lt;a href="/weblog/tags#lisp-ref"&gt;lisp &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#dart-ref"&gt;dart &lt;span&gt;9&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#rb-ref"&gt;rb &lt;span&gt;15&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#rb-ref"&gt;rb &lt;span&gt;15&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#dart-ref"&gt;dart &lt;span&gt;10&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#java-ref"&gt;java &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
@@ -492,13 +490,16 @@
     &lt;a href="/weblog/tags#vim-ref"&gt;vim &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#android-ref"&gt;android &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#android-ref"&gt;android &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#lawyers-ref"&gt;lawyers &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#st-ref"&gt;st &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/weblog/tags#security-ref"&gt;security &lt;span&gt;7&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#games-ref"&gt;games &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
@@ -508,9 +509,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#sh-ref"&gt;sh &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="/weblog/tags#security-ref"&gt;security &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#forest fires-ref"&gt;forest fires &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -666,17 +664,8 @@
   &lt;h3 id="lisp-ref"&gt;lisp&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-07-post"&gt;&amp;quot;Career-shatteringly bad mistake&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-11-13-post"&gt;Scheme&lt;/a&gt;&lt;/li&gt;
-  &lt;h3 id="dart-ref"&gt;dart&lt;/h3&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/breaking-changes"&gt;Breaking changes&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2014-08-20-post"&gt;Continua&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/also-sprach-zarathustra"&gt;Also Sprach Zarathustra, Op. 30&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/dart-vm-now-50-faster-than-v8"&gt;Dart VM now 50% faster than V8&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/road-to-nowhere"&gt;Road to nowhere&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/overheard-1"&gt;Overheard[1]&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/premise-check"&gt;Premise check&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/limitations"&gt;Limitations&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2014-11-12-post"&gt;Obviously&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="rb-ref"&gt;rb&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/anthropology"&gt;Anthropology&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/love-your-package-manager"&gt;Love your package manager&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-20-post"&gt;RIP&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/involve-designers-from-the-beginning"&gt;&amp;quot;Involve designers from the beginning&amp;quot;&lt;/a&gt;&lt;/li&gt;
@@ -691,7 +680,17 @@
     &lt;li&gt;&lt;a href="/weblog/posts/gem-exploit-devise"&gt;Gem exploit: devise&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-12-21-post"&gt;&amp;quot;Vigorous writing is concise&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/dependency-injection-is-not-a-virtue"&gt;&amp;quot;Dependency injection is not a virtue&amp;quot;&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/drafts/history"&gt;Programthropology&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="dart-ref"&gt;dart&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/breaking-changes"&gt;Breaking changes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-08-20-post"&gt;Continua&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/also-sprach-zarathustra"&gt;Also Sprach Zarathustra, Op. 30&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/dart-vm-now-50-faster-than-v8"&gt;Dart VM now 50% faster than V8&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/road-to-nowhere"&gt;Road to nowhere&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/overheard-1"&gt;Overheard[1]&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/premise-check"&gt;Premise check&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/limitations"&gt;Limitations&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-11-12-post"&gt;Obviously&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/sky"&gt;Sky&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="java-ref"&gt;java&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-06-20-post"&gt;&amp;quot;Hating Java in 2014&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/further-affiant-sayeth-naught"&gt;&amp;quot;Further affiant sayeth naught.&amp;quot;&lt;/a&gt;&lt;/li&gt;
@@ -704,6 +703,7 @@
   &lt;h3 id="android-ref"&gt;android&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/android-aosp-maintainer-quits"&gt;Android AOSP maintainer quits&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/android-studio"&gt;Android Studio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/sky"&gt;Sky&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="lawyers-ref"&gt;lawyers&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-10-07-post"&gt;&amp;quot;Rockets vs. Rubber Bands&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-01-01-post"&gt;Session Initiation Protocol&lt;/a&gt;&lt;/li&gt;
@@ -713,6 +713,14 @@
     &lt;li&gt;&lt;a href="/weblog/posts/2014-01-22-post"&gt;Paradigms&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2013-12-17-post"&gt;Orientation&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/objects-are-not-hash-tables"&gt;Objects are not hash tables&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="security-ref"&gt;security&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/embedded"&gt;Embedded&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2015-01-16-post"&gt;Not again&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/java-exploit-7u10"&gt;Java exploit: 7u10&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-02-18-post2"&gt;Data injection vulnerability in ActiveRecord&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2014-02-22-post"&gt;goto fail&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/gem-exploit-devise"&gt;Gem exploit: devise&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/2015-02-05-post"&gt;Understatement&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="games-ref"&gt;games&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-04-01-post2"&gt;iddqd&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-06-post3"&gt;private static final sealed cursed&lt;/a&gt;&lt;/li&gt;
@@ -723,13 +731,6 @@
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-01-post"&gt;&amp;quot;Big changes to Erlang&amp;quot;&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="sh-ref"&gt;sh&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-01-16-post"&gt;Not again&lt;/a&gt;&lt;/li&gt;
-  &lt;h3 id="security-ref"&gt;security&lt;/h3&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2015-01-16-post"&gt;Not again&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/java-exploit-7u10"&gt;Java exploit: 7u10&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2014-02-18-post2"&gt;Data injection vulnerability in ActiveRecord&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2014-02-22-post"&gt;goto fail&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/gem-exploit-devise"&gt;Gem exploit: devise&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/2015-02-05-post"&gt;Understatement&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="forest fires-ref"&gt;forest fires&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-01-16-post"&gt;Not again&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="c-ref"&gt;c&lt;/h3&gt;

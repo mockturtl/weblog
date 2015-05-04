@@ -4,7 +4,29 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-04-30</pubDate>
+    <pubDate>2015-05-04</pubDate>
+    <item>
+      <title>Embedded</title>
+      <link>/weblog/posts/embedded</link>
+      <pubDate>2015-05-04</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Hospira Lifecare PCA infusion pump running &amp;quot;SW ver 412&amp;quot; does not require authentication for Telnet sessions, which allows remote attackers to gain root privileges via TCP port 23.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-3459"&gt;CVE-2015-3459&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Sky</title>
+      <link>/weblog/posts/sky</link>
+      <pubDate>2015-05-02</pubDate>
+      <description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PnIWl33YMwA?list=PLOU2XLYxmsIIQorIS8gagUiMau9S84vZV" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Eric Seidel, Dart Summit 2015, San Francisco, California&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="https://play.google.com/store/apps/details?id=org.domokit.sky.demo"&gt;demo&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Diamonds are forever</title>
       <link>/weblog/posts/diamonds-are-forever</link>
@@ -16,6 +38,17 @@
 &lt;p&gt;Sandi Metz, &lt;a href="https://www.youtube.com/watch?v=LdWMcs9EEOE&amp;amp;feature=youtu.be&amp;amp;t=7h34m37s"&gt;&lt;em&gt;Nothing is Something&lt;/em&gt;&lt;/a&gt;, RailsConf 2015, Atlanta, Georgia&lt;/p&gt;
 
 &lt;p&gt;(&lt;a href="https://gist.github.com/seapy/8bc4e8a667578de8dffb"&gt;schedule&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Anthropology</title>
+      <link>/weblog/posts/anthropology</link>
+      <pubDate>2015-04-25</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;presentation of history is an incredibly powerful way of influencing people and teaching people&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://devchat.tv/ruby-rogues/204-rr-limerence-with-dave-thomas"&gt;Dave Thomas&lt;/a&gt;, Ruby Rogues #204&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -199,41 +232,6 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href="http://paulgraham.com/schlep.html"&gt;Paul Graham&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Understatement</title>
-      <link>/weblog/posts/2015-02-05-post</link>
-      <pubDate>2015-02-05</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Microsoft was notified on Oct 13, 2014.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://seclists.org/fulldisclosure/2015/Feb/19"&gt;http://seclists.org/fulldisclosure/2015/Feb/19&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Overheard</title>
-      <link>/weblog/posts/2015-01-28-post</link>
-      <pubDate>2015-01-28</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Ceci n&amp;#39;est pas une type&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Scott Wlaschin, &lt;a href="http://www.slideshare.net/mobile/ScottWlaschin/fp-patterns-ndc-london2014#36"&gt;&lt;em&gt;Functional Design Patterns&lt;/em&gt;&lt;/a&gt;, NDC London 2014&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href="https://vimeo.com/113588389"&gt;video&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Basic correctness</title>
-      <link>/weblog/posts/2015-01-22-post</link>
-      <pubDate>2015-01-22</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;if we drive the cost of a defect down to zero, then it doesn&amp;#39;t matter how many mistakes we make.  In fact, we can experiment more and make more mistakes.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;J.B. Rainsberger, &lt;a href="http://www.infoq.com/presentations/integration-tests-scam"&gt;&lt;em&gt;Integration Tests Are a Scam&lt;/em&gt;&lt;/a&gt;, Agile2009, Chicago&lt;/p&gt;
 </description>
     </item>
   </channel>
