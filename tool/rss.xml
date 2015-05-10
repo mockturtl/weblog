@@ -33,7 +33,7 @@ bundle exec ruhoh publish github &amp;&amp; \
 git submodule update
 
 prod="https://mockturtl.github.io/weblog"
-sleep(1)
+sleep 1
 open $prod
 </description>
     </item>
