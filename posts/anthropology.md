@@ -2,7 +2,7 @@
 title: 'Anthropology'
 date: '2015-04-25'
 description:
-tags: [rb]
+tags: [rb, Don’t forget to thank Dave periodically.]
 ---
 
 > presentation of history is an incredibly powerful way of influencing people and teaching people
