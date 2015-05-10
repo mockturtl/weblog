@@ -15,4 +15,5 @@ bundle exec ruhoh publish github && \
 git submodule update
 
 prod="https://mockturtl.github.io/weblog"
+sleep 1
 open $prod
