@@ -4,7 +4,18 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-05-04</pubDate>
+    <pubDate>2015-05-09</pubDate>
+    <item>
+      <title>Inference</title>
+      <link>/weblog/posts/inference</link>
+      <pubDate>2015-05-08</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Humans benefit from the redundancy of the type declaration in two ways.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://bugs.java.com/bugdatabase/view_bug.do?bug_id=4459053"&gt;Gilad Bracha&lt;/a&gt;, 2001&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Embedded</title>
       <link>/weblog/posts/embedded</link>
@@ -221,17 +232,6 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;(&lt;a href="https://twitter.com/JayCuthrell/status/551254076164288513"&gt;twitter&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>"Schlep blindness"</title>
-      <link>/weblog/posts/2015-02-17-post</link>
-      <pubDate>2015-02-17</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Instead of asking &amp;quot;what problem should I solve?&amp;quot; ask &amp;quot;what problem do I wish someone else would solve for me?&amp;quot; &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://paulgraham.com/schlep.html"&gt;Paul Graham&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
