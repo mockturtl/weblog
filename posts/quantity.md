@@ -5,7 +5,7 @@ description:
 tags: [muses]
 ---
 
-![xkcd #1477](http://imgs.xkcd.com/comics/star_wars.png)
+[![xkcd #1477](http://imgs.xkcd.com/comics/star_wars.png)](http://xkcd.com/1477/)
 
 > If we look back thirty eight years from 1977 to 1939, there were numerous great films that year, but notably _Gone With the Wind_ and _The Wizard of Oz_
 
