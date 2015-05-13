@@ -4,7 +4,20 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-05-10</pubDate>
+    <pubDate>2015-05-13</pubDate>
+    <item>
+      <title>Quantity</title>
+      <link>/weblog/posts/quantity</link>
+      <pubDate>2015-05-13</pubDate>
+      <description>&lt;p&gt;&lt;img src="http://imgs.xkcd.com/comics/star_wars.png" alt="xkcd #1477"&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If we look back thirty eight years from 1977 to 1939, there were numerous great films that year, but notably &lt;em&gt;Gone With the Wind&lt;/em&gt; and &lt;em&gt;The Wizard of Oz&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href="http://io9.com/well-its-also-been-thirty-eight-years-since-the-releas-1681550403"&gt;comments&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Inference</title>
       <link>/weblog/posts/inference</link>
@@ -221,17 +234,6 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href="http://www.sencha.com/blog/5-myths-about-mobile-web-performance#33640"&gt;Jim Trainor&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Unlinked</title>
-      <link>/weblog/posts/2015-02-20-post</link>
-      <pubDate>2015-02-20</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Today, 1 person noticed.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(&lt;a href="https://twitter.com/JayCuthrell/status/551254076164288513"&gt;twitter&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
   </channel>

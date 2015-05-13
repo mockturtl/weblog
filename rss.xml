@@ -4,7 +4,7 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-05-10</pubDate>
+    <pubDate>2015-05-13</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
@@ -12,6 +12,7 @@
   &lt;h2&gt;2015&lt;/h2&gt;
     &lt;h3&gt;May&lt;/h3&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-05-13&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/quantity"&gt;Quantity&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-05-08&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/inference"&gt;Inference&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-05-04&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/embedded"&gt;Embedded&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-05-02&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/sky"&gt;Sky&lt;/a&gt;&lt;/li&gt;
@@ -295,6 +296,23 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/quantity"&gt;Quantity&lt;/a&gt; &lt;span class="date"&gt;2015-05-13&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;p&gt;&lt;img src="http://imgs.xkcd.com/comics/star_wars.png" alt="xkcd #1477"&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If we look back thirty eight years from 1977 to 1939, there were numerous great films that year, but notably &lt;em&gt;Gone With the Wind&lt;/em&gt; and &lt;em&gt;The Wizard of Oz&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href="http://io9.com/well-its-also-been-thirty-eight-years-since-the-releas-1681550403"&gt;comments&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/quantity" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/inference"&gt;Inference&lt;/a&gt; &lt;span class="date"&gt;2015-05-08&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -354,21 +372,6 @@
 
   &lt;div class="more"&gt;
     &lt;a href="/weblog/posts/diamonds-are-forever" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/anthropology"&gt;Anthropology&lt;/a&gt; &lt;span class="date"&gt;2015-04-25&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;presentation of history is an incredibly powerful way of influencing people and teaching people&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://devchat.tv/ruby-rogues/204-rr-limerence-with-dave-thomas"&gt;Dave Thomas&lt;/a&gt;, Ruby Rogues #204&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/anthropology" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -597,6 +600,7 @@
     &lt;li&gt;&lt;a href="/weblog/posts/2015-01-19-post"&gt;Decorum&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-02-22-post"&gt;Twilight (1972)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/in-broad-daylight"&gt;In broad daylight&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/quantity"&gt;Quantity&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-12-17-post2"&gt;Best practices&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-03-28-post2"&gt;Oculus VR&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-12-17-post"&gt;Tend your own garden&lt;/a&gt;&lt;/li&gt;
@@ -621,7 +625,6 @@
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-06-post"&gt;Culture&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-03-21-post"&gt;Value proposition&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/jazz-impressions-of-japan-1964"&gt;Jazz Impressions of Japan (1964)&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="/weblog/posts/drafts/quantity"&gt;Quantity&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard-2"&gt;Overheard[2]&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-02-18-post"&gt;&amp;quot;Bizarre Shadowy Paper-Based Payment System Being Rolled Out Worldwide&amp;quot;&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="unix-ref"&gt;unix&lt;/h3&gt;
