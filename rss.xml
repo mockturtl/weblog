@@ -4,7 +4,7 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-05-13</pubDate>
+    <pubDate>2015-05-16</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
@@ -12,6 +12,7 @@
   &lt;h2&gt;2015&lt;/h2&gt;
     &lt;h3&gt;May&lt;/h3&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-05-15&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/journals"&gt;Journals&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-05-13&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/quantity"&gt;Quantity&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-05-08&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/inference"&gt;Inference&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-05-04&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/embedded"&gt;Embedded&lt;/a&gt;&lt;/li&gt;
@@ -296,6 +297,21 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/journals"&gt;Journals&lt;/a&gt; &lt;span class="date"&gt;2015-05-15&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;we wonder why doctors have a hard time understanding CRUD-based systems, when their natural mental model is the appending of facts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Greg Young, &lt;a href="https://youtu.be/JHGkaShoyNs?t=40m28s"&gt;&lt;em&gt;CQRS and Event Sourcing&lt;/em&gt;&lt;/a&gt;, Code on the Beach 2014, Atlanta Beach, Florida&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/journals" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/quantity"&gt;Quantity&lt;/a&gt; &lt;span class="date"&gt;2015-05-13&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -355,23 +371,6 @@
 
   &lt;div class="more"&gt;
     &lt;a href="/weblog/posts/sky" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/diamonds-are-forever"&gt;Diamonds are forever&lt;/a&gt; &lt;span class="date"&gt;2015-04-30&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;If there's a specialization, by definition, there's never just one specialization.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sandi Metz, &lt;a href="https://www.youtube.com/watch?v=LdWMcs9EEOE&amp;amp;feature=youtu.be&amp;amp;t=7h34m37s"&gt;&lt;em&gt;Nothing is Something&lt;/em&gt;&lt;/a&gt;, RailsConf 2015, Atlanta, Georgia&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href="https://gist.github.com/seapy/8bc4e8a667578de8dffb"&gt;schedule&lt;/a&gt;)&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/diamonds-are-forever" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -443,7 +442,7 @@
       <description>
 &lt;ul class="tag_box inline"&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;38&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;39&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#go-ref"&gt;go &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
@@ -506,6 +505,9 @@
     &lt;a href="/weblog/tags#lawyers-ref"&gt;lawyers &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;a href="/weblog/tags#fp-ref"&gt;fp &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;a href="/weblog/tags#st-ref"&gt;st &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -558,6 +560,7 @@
     &lt;li&gt;&lt;a href="/weblog/posts/folk-process"&gt;Folk process&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-03-11-post"&gt;Good clients&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/uml-is-a-job-smell"&gt;UML is a job smell&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/journals"&gt;Journals&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/i-wish-i-could-never-link"&gt;&amp;quot;I wish I could never link against a closed library ever again.&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-03-18-post"&gt;Wetware as a Service&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-03-07-post"&gt;Essentials&lt;/a&gt;&lt;/li&gt;
@@ -722,6 +725,8 @@
   &lt;h3 id="lawyers-ref"&gt;lawyers&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-10-07-post"&gt;&amp;quot;Rockets vs. Rubber Bands&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-01-01-post"&gt;Session Initiation Protocol&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="fp-ref"&gt;fp&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/journals"&gt;Journals&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="st-ref"&gt;st&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-06-27-post"&gt;reinventing the wheel&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/diamonds-are-forever"&gt;Diamonds are forever&lt;/a&gt;&lt;/li&gt;
