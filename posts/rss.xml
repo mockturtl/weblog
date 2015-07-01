@@ -4,7 +4,29 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-05-16</pubDate>
+    <pubDate>2015-07-01</pubDate>
+    <item>
+      <title>SMOP</title>
+      <link>/weblog/posts/smop</link>
+      <pubDate>2015-06-26</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;GC&amp;quot; isn&amp;#39;t a feature, some little bullet point you can tack in a point release. It&amp;#39;s a fundamental property of the entire system. It is a can of worms recursively full of cans of worms.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://groups.google.com/a/dartlang.org/d/msg/misc/szGdXdLrZM8/mg8AszpDYkcJ"&gt;Bob Nystrom&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>"Kings, presidents and voting"</title>
+      <link>/weblog/posts/kings-presidents-and-voting</link>
+      <pubDate>2015-05-21</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The problem is assigning the correct degree of fear to distant elephants.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;David Clark, &lt;a href="http://groups.csail.mit.edu/ana/People/DDC/future_ietf_92.pdf"&gt;&lt;em&gt;A Cloudy Crystal Ball &#x2013; Visions of the Future&lt;/em&gt;&lt;/a&gt;, IETF 24, Cambridge, Massachusetts, 1992&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Journals</title>
       <link>/weblog/posts/journals</link>
@@ -214,26 +236,6 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href="http://blogs.msdn.com/b/ericlippert/archive/2009/05/04/the-stack-is-an-implementation-detail-part-two.aspx"&gt;Eric Lippert&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>"The solid, slow-moving target"</title>
-      <link>/weblog/posts/2015-03-02-post</link>
-      <pubDate>2015-03-02</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;The way that you do stability in software, like this idea that we need a very slow-moving waterfall process -- it&amp;#39;s antiquated.  It&amp;#39;s an accident of history that it ever worked that way.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://devchat.tv/js-jabber/147-jsj-io-js-with-isaac-schleuter-and-mikeal-rogers"&gt;Isaac Schlueter&lt;/a&gt;, Javascript Jabber #147&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Twilight (1972)</title>
-      <link>/weblog/posts/2015-02-22-post</link>
-      <pubDate>2015-02-22</pubDate>
-      <description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xoJfez8Frec" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Shin Jung Hyeon, &lt;em&gt;Jang Hyeon &amp;amp; the Men&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>

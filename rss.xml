@@ -4,14 +4,19 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-05-16</pubDate>
+    <pubDate>2015-07-01</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
       <description>
   &lt;h2&gt;2015&lt;/h2&gt;
+    &lt;h3&gt;June&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-06-26&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/smop"&gt;SMOP&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
     &lt;h3&gt;May&lt;/h3&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-05-21&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/kings-presidents-and-voting"&gt;&amp;quot;Kings, presidents and voting&amp;quot;&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-05-15&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/journals"&gt;Journals&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-05-13&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/quantity"&gt;Quantity&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;span&gt;2015-05-08&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/inference"&gt;Inference&lt;/a&gt;&lt;/li&gt;
@@ -297,6 +302,36 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/smop"&gt;SMOP&lt;/a&gt; &lt;span class="date"&gt;2015-06-26&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;"GC" isn't a feature, some little bullet point you can tack in a point release. It's a fundamental property of the entire system. It is a can of worms recursively full of cans of worms.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://groups.google.com/a/dartlang.org/d/msg/misc/szGdXdLrZM8/mg8AszpDYkcJ"&gt;Bob Nystrom&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/smop" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/kings-presidents-and-voting"&gt;&amp;quot;Kings, presidents and voting&amp;quot;&lt;/a&gt; &lt;span class="date"&gt;2015-05-21&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The problem is assigning the correct degree of fear to distant elephants.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;David Clark, &lt;a href="http://groups.csail.mit.edu/ana/People/DDC/future_ietf_92.pdf"&gt;&lt;em&gt;A Cloudy Crystal Ball &#x2013; Visions of the Future&lt;/em&gt;&lt;/a&gt;, IETF 24, Cambridge, Massachusetts, 1992&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/kings-presidents-and-voting" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/journals"&gt;Journals&lt;/a&gt; &lt;span class="date"&gt;2015-05-15&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -343,36 +378,6 @@
     &lt;a href="/weblog/posts/inference" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/embedded"&gt;Embedded&lt;/a&gt; &lt;span class="date"&gt;2015-05-04&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Hospira Lifecare PCA infusion pump running "SW ver 412" does not require authentication for Telnet sessions, which allows remote attackers to gain root privileges via TCP port 23.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-3459"&gt;CVE-2015-3459&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/embedded" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/sky"&gt;Sky&lt;/a&gt; &lt;span class="date"&gt;2015-05-02&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PnIWl33YMwA?list=PLOU2XLYxmsIIQorIS8gagUiMau9S84vZV" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Eric Seidel, Dart Summit 2015, San Francisco, California&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href="https://play.google.com/store/apps/details?id=org.domokit.sky.demo"&gt;demo&lt;/a&gt;)&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/sky" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
 
 &lt;div class="pagination"&gt;
   &lt;ul&gt;
@@ -409,6 +414,7 @@
       &lt;li&gt;&lt;a href="/weblog/posts/index/31"&gt;31&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href="/weblog/posts/index/32"&gt;32&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href="/weblog/posts/index/33"&gt;33&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/weblog/posts/index/34"&gt;34&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/div&gt;
 </description>
@@ -451,7 +457,7 @@
     &lt;a href="/weblog/tags#web-ref"&gt;web &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;34&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#muses-ref"&gt;muses &lt;span&gt;35&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#unix-ref"&gt;unix &lt;span&gt;14&lt;/span&gt;&lt;/a&gt;
@@ -490,13 +496,16 @@
     &lt;a href="/weblog/tags#Don&#x2019;t forget to thank Dave periodically.-ref"&gt;Don&#x2019;t forget to thank Dave periodically. &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#dart-ref"&gt;dart &lt;span&gt;10&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#dart-ref"&gt;dart &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#java-ref"&gt;java &lt;span&gt;7&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#vim-ref"&gt;vim &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/weblog/tags#sanity-ref"&gt;sanity &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#android-ref"&gt;android &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
@@ -611,6 +620,7 @@
     &lt;li&gt;&lt;a href="/weblog/posts/2015-01-28-post"&gt;Overheard&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-04-04-post"&gt;Curriculum&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/new-systemd-module-libc"&gt;New systemd module: libc&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/kings-presidents-and-voting"&gt;&amp;quot;Kings, presidents and voting&amp;quot;&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-06-05-post"&gt;Standards&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/salt-of-the-earth-1974"&gt;Salt of the Earth (1974)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard-1"&gt;Overheard[1]&lt;/a&gt;&lt;/li&gt;
@@ -701,6 +711,7 @@
     &lt;li&gt;&lt;a href="/weblog/posts/breaking-changes"&gt;Breaking changes&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-08-20-post"&gt;Continua&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/also-sprach-zarathustra"&gt;Also Sprach Zarathustra, Op. 30&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/smop"&gt;SMOP&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/dart-vm-now-50-faster-than-v8"&gt;Dart VM now 50% faster than V8&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/road-to-nowhere"&gt;Road to nowhere&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/overheard-1"&gt;Overheard[1]&lt;/a&gt;&lt;/li&gt;
@@ -718,6 +729,8 @@
     &lt;li&gt;&lt;a href="/weblog/posts/overheard-2"&gt;Overheard[2]&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="vim-ref"&gt;vim&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/what"&gt;What?&lt;/a&gt;&lt;/li&gt;
+  &lt;h3 id="sanity-ref"&gt;sanity&lt;/h3&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/smop"&gt;SMOP&lt;/a&gt;&lt;/li&gt;
   &lt;h3 id="android-ref"&gt;android&lt;/h3&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/android-aosp-maintainer-quits"&gt;Android AOSP maintainer quits&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/android-studio"&gt;Android Studio&lt;/a&gt;&lt;/li&gt;
