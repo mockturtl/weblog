@@ -4,12 +4,16 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-07-01</pubDate>
+    <pubDate>2015-07-11</pubDate>
     <item>
       <title>Archive</title>
       <link>/weblog/archive</link>
       <description>
   &lt;h2&gt;2015&lt;/h2&gt;
+    &lt;h3&gt;July&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2015-07-08&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/modern-english"&gt;Modern English&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
     &lt;h3&gt;June&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;span&gt;2015-06-26&lt;/span&gt; &amp;raquo; &lt;a href="/weblog/posts/smop"&gt;SMOP&lt;/a&gt;&lt;/li&gt;
@@ -302,6 +306,27 @@
       <title>Home</title>
       <link>/weblog</link>
       <description>&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/modern-english"&gt;Modern English&lt;/a&gt; &lt;span class="date"&gt;2015-07-08&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;p&gt;&lt;img src="https://40.media.tumblr.com/9307fba3736ad303738661bd558dddf0/tumblr_inline_nr6qrn313V1sdck2n_540.jpg" alt="Go 1.5 GC"&gt;&lt;/p&gt;
+
+&lt;p&gt;Rick Hudson, &lt;a href="https://sourcegraph.com/blog/live/gophercon2015/123574706480"&gt;&lt;em&gt;Go GC: Solving the Latency Problem&lt;/em&gt;&lt;/a&gt;, GopherCon 2015, Denver Colorado&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="https://github.com/gophercon/2015-talks"&gt;slides?&lt;/a&gt;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Zooming in, there is still a slight positive correlation between heap size and GC pauses. But they know what the issue is and it will be fixed in Go 1.6.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://sourcegraph.com/blog/live/gophercon2015/123574706480"&gt;Sourcegraph&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/weblog/posts/modern-english" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post"&gt;
   &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/smop"&gt;SMOP&lt;/a&gt; &lt;span class="date"&gt;2015-06-26&lt;/span&gt;&lt;/h3&gt;
 
   &lt;div class="summary"&gt;
@@ -361,21 +386,6 @@
 
   &lt;div class="more"&gt;
     &lt;a href="/weblog/posts/quantity" class="btn btn-small"&gt;read more..&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="post"&gt;
-  &lt;h3 class="title"&gt;&lt;a href="/weblog/posts/inference"&gt;Inference&lt;/a&gt; &lt;span class="date"&gt;2015-05-08&lt;/span&gt;&lt;/h3&gt;
-
-  &lt;div class="summary"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Humans benefit from the redundancy of the type declaration in two ways.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://bugs.java.com/bugdatabase/view_bug.do?bug_id=4459053"&gt;Gilad Bracha&lt;/a&gt; (2001)&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;div class="more"&gt;
-    &lt;a href="/weblog/posts/inference" class="btn btn-small"&gt;read more..&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -451,7 +461,7 @@
     &lt;a href="/weblog/tags#culture shock-ref"&gt;culture shock &lt;span&gt;39&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/weblog/tags#go-ref"&gt;go &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/weblog/tags#go-ref"&gt;go &lt;span&gt;7&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/weblog/tags#web-ref"&gt;web &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
@@ -598,6 +608,7 @@
     &lt;li&gt;&lt;a href="/weblog/posts/2014-07-13-post"&gt;Organization&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-06-03-post"&gt;Concurrency is everyone&amp;#39;s problem&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2015-01-03-post"&gt;Deadpan&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/weblog/posts/modern-english"&gt;Modern English&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/idiom"&gt;Esmerelda&amp;#39;s Imagination&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-11-24-post"&gt;Notes on Programming in C (1989)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="/weblog/posts/2014-12-16-post"&gt;Over and over and over&lt;/a&gt;&lt;/li&gt;

@@ -4,7 +4,24 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-07-01</pubDate>
+    <pubDate>2015-07-11</pubDate>
+    <item>
+      <title>Modern English</title>
+      <link>/weblog/posts/modern-english</link>
+      <pubDate>2015-07-08</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://40.media.tumblr.com/9307fba3736ad303738661bd558dddf0/tumblr_inline_nr6qrn313V1sdck2n_540.jpg" alt="Go 1.5 GC"&gt;&lt;/p&gt;
+
+&lt;p&gt;Rick Hudson, &lt;a href="https://sourcegraph.com/blog/live/gophercon2015/123574706480"&gt;&lt;em&gt;Go GC: Solving the Latency Problem&lt;/em&gt;&lt;/a&gt;, GopherCon 2015, Denver Colorado&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="https://github.com/gophercon/2015-talks"&gt;slides?&lt;/a&gt;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Zooming in, there is still a slight positive correlation between heap size and GC pauses. But they know what the issue is and it will be fixed in Go 1.6.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://sourcegraph.com/blog/live/gophercon2015/123574706480"&gt;Sourcegraph&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>SMOP</title>
       <link>/weblog/posts/smop</link>
@@ -225,17 +242,6 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href="http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/"&gt;Bob Nystrom&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Flexibility</title>
-      <link>/weblog/posts/2015-03-04-post</link>
-      <pubDate>2015-03-04</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Design is, as always, the art of finding compromises.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://blogs.msdn.com/b/ericlippert/archive/2009/05/04/the-stack-is-an-implementation-detail-part-two.aspx"&gt;Eric Lippert&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
