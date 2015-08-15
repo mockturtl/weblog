@@ -4,16 +4,16 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-07-11</pubDate>
+    <pubDate>2015-08-15</pubDate>
     <item>
       <title>Modern English</title>
       <link>/weblog/posts/modern-english</link>
       <pubDate>2015-07-08</pubDate>
       <description>&lt;p&gt;&lt;img src="https://40.media.tumblr.com/9307fba3736ad303738661bd558dddf0/tumblr_inline_nr6qrn313V1sdck2n_540.jpg" alt="Go 1.5 GC"&gt;&lt;/p&gt;
 
-&lt;p&gt;Rick Hudson, &lt;a href="https://sourcegraph.com/blog/live/gophercon2015/123574706480"&gt;&lt;em&gt;Go GC: Solving the Latency Problem&lt;/em&gt;&lt;/a&gt;, GopherCon 2015, Denver Colorado&lt;/p&gt;
+&lt;p&gt;Rick Hudson, &lt;a href="https://www.youtube.com/watch?v=aiv1JOfMjm0"&gt;&lt;em&gt;Go GC: Solving the Latency Problem&lt;/em&gt;&lt;/a&gt;, GopherCon 2015, Denver Colorado&lt;/p&gt;
 
-&lt;p&gt;(&lt;a href="https://github.com/gophercon/2015-talks"&gt;slides?&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(&lt;a href="https://talks.golang.org/2015/go-gc.pdf"&gt;slides&lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Zooming in, there is still a slight positive correlation between heap size and GC pauses. But they know what the issue is and it will be fixed in Go 1.6.&lt;/p&gt;
