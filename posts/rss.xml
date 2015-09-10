@@ -4,7 +4,22 @@
     <title>See also:</title>
     <description>See also:</description>
     <link/>
-    <pubDate>2015-08-15</pubDate>
+    <pubDate>2015-09-10</pubDate>
+    <item>
+      <title>Melting Pot (1971)</title>
+      <link>/weblog/posts/melting-pot-1971</link>
+      <pubDate>2015-09-09</pubDate>
+      <description>&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/zlai0BQarrc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Melting Pot&lt;/em&gt; was recorded in New York City, between MG&amp;#39;s gigs, as Jones refused to record in Memphis and wanted the band to create a different sound for the new album.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href="https://en.wikipedia.org/wiki/Melting_Pot_(Booker_T_album"&gt;wikipedia&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Modern English</title>
       <link>/weblog/posts/modern-english</link>
@@ -115,17 +130,6 @@
 </description>
     </item>
     <item>
-      <title>Anthropology</title>
-      <link>/weblog/posts/anthropology</link>
-      <pubDate>2015-04-25</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;presentation of history is an incredibly powerful way of influencing people and teaching people&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://devchat.tv/ruby-rogues/204-rr-limerence-with-dave-thomas"&gt;Dave Thomas&lt;/a&gt;, Ruby Rogues #204&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>VIII</title>
       <link>/weblog/posts/jessie</link>
       <pubDate>2015-04-25</pubDate>
@@ -134,6 +138,17 @@
 &lt;p&gt;&lt;img src="http://i.imgur.com/nGDDr1c.jpg" alt=""&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://twitter.com/frazelledazzell/status/592007920151175170"&gt;Jessie Frazelle&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Anthropology</title>
+      <link>/weblog/posts/anthropology</link>
+      <pubDate>2015-04-25</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;presentation of history is an incredibly powerful way of influencing people and teaching people&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://devchat.tv/ruby-rogues/204-rr-limerence-with-dave-thomas"&gt;Dave Thomas&lt;/a&gt;, Ruby Rogues #204&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -190,17 +205,6 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 </description>
     </item>
     <item>
-      <title>iddqd</title>
-      <link>/weblog/posts/2015-04-01-post2</link>
-      <pubDate>2015-04-01</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Teaching my older son lisp (Racket). Working on a Pokemon battle simulator. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="https://twitter.com/ID_AA_Carmack/status/569688211158511616/photo/1"&gt;John Carmack&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Foolery</title>
       <link>/weblog/posts/2015-04-01-post</link>
       <pubDate>2015-04-01</pubDate>
@@ -209,6 +213,17 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;(&lt;a href="https://lkml.org/lkml/2015/3/31/994"&gt;lkml&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>iddqd</title>
+      <link>/weblog/posts/2015-04-01-post2</link>
+      <pubDate>2015-04-01</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Teaching my older son lisp (Racket). Working on a Pokemon battle simulator. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/ID_AA_Carmack/status/569688211158511616/photo/1"&gt;John Carmack&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -231,17 +246,6 @@ Students don&amp;#39;t seem to care much about developing defensive test cases, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href="https://mobile.twitter.com/migueldeicaza/status/581068613542649856"&gt;Miguel de Icaza&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Value proposition</title>
-      <link>/weblog/posts/2015-03-21-post</link>
-      <pubDate>2015-03-21</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;At this point, a reasonable person might think the language hates us.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/"&gt;Bob Nystrom&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
