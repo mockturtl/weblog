@@ -16,4 +16,4 @@ git submodule update
 
 prod="https://mockturtl.github.io/weblog"
 sleep 1
-open $prod
+xdg-open $prod
